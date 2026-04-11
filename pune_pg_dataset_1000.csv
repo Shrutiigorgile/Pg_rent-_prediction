@@ -1,0 +1,1001 @@
+pg_name,location,rent,sharing_type,size_sqft,wifi,ac,food,parking,laundry,power_backup,security,housekeeping,attached_bathroom,geyser,gender,preferred_tenant,rating
+CoHo Hadapsar,Hadapsar,11458,Single,449,0,0,1,0,0,0,1,0,0,0,Any,Working,3.6
+LivStation Pimpri,Pimpri,12047,Double,398,1,1,1,1,0,0,1,1,1,0,Any,Student,4.1
+YourSpace Hinjewadi,Hinjewadi,9773,Triple,438,1,1,0,0,0,0,0,0,0,0,Female,Working,4.1
+SmartLiving Magarpatta,Magarpatta,17034,Single,430,1,1,1,0,1,0,1,0,1,0,Female,Working,4.6
+YourSpace Viman Nagar,Viman Nagar,16957,Double,619,1,1,1,0,0,1,1,1,1,1,Any,Working,4.0
+StayAbode Hadapsar,Hadapsar,12516,Single,537,1,1,0,1,0,1,0,0,1,1,Male,Student,3.9
+CoHo Kothrud,Kothrud,13092,Single,512,0,0,1,0,1,1,1,0,0,0,Any,Student,4.4
+Colive Magarpatta,Magarpatta,13002,Triple,411,1,0,1,0,0,1,1,1,0,1,Male,Student,4.4
+EliteStay Viman Nagar,Viman Nagar,12002,Triple,632,0,0,0,0,0,1,0,0,0,1,Male,Student,4.1
+Colive Magarpatta,Magarpatta,15484,Single,580,0,0,1,0,0,1,0,1,1,1,Male,Student,4.6
+OYO Life Baner,Baner,14952,Single,483,1,0,0,0,1,1,1,1,0,1,Female,Working,4.3
+ComfortStay Magarpatta,Magarpatta,12427,Triple,582,1,0,0,1,0,0,0,0,1,0,Any,Student,3.7
+CoHo Shivaji Nagar,Shivaji Nagar,11907,Double,582,0,0,0,1,1,1,0,0,1,1,Male,Working,5.0
+Stanza Living Baner,Baner,13501,Double,569,0,1,0,0,0,0,1,0,0,0,Female,Student,3.9
+Colive Kothrud,Kothrud,14835,Single,552,0,1,1,0,1,1,1,1,1,0,Any,Student,4.6
+UrbanNest Pimpri,Pimpri,12923,Single,675,1,1,1,1,0,0,1,1,0,0,Male,Student,4.4
+Colive Baner,Baner,11935,Triple,687,1,0,0,0,1,1,0,1,0,0,Male,Student,4.0
+Zolo Stays Shivaji Nagar,Shivaji Nagar,12871,Double,351,0,0,1,1,0,0,1,1,1,1,Male,Working,4.9
+CoHo Aundh,Aundh,13903,Single,403,1,0,0,0,0,0,0,1,1,0,Male,Working,4.8
+SmartLiving Kothrud,Kothrud,13913,Double,687,1,1,1,0,1,1,0,0,0,0,Female,Working,4.2
+Zolo Stays Shivaji Nagar,Shivaji Nagar,14194,Single,477,1,0,1,0,1,1,1,1,1,0,Male,Working,3.6
+UrbanNest Hinjewadi,Hinjewadi,12082,Double,575,0,1,1,1,1,1,0,0,1,1,Male,Working,4.5
+StayAbode Kothrud,Kothrud,13171,Single,507,1,0,1,0,1,0,1,0,1,0,Male,Working,4.9
+EliteStay Hinjewadi,Hinjewadi,12115,Single,602,0,1,0,0,1,0,0,0,1,0,Male,Working,4.8
+EliteStay Hinjewadi,Hinjewadi,11087,Double,691,0,1,0,1,1,0,1,1,1,1,Any,Working,3.9
+Colive Magarpatta,Magarpatta,14681,Double,375,1,0,1,0,0,0,1,1,0,0,Any,Working,4.8
+Nestaway Magarpatta,Magarpatta,13771,Triple,492,0,1,0,1,0,1,1,1,1,1,Female,Working,4.2
+Grexter Viman Nagar,Viman Nagar,13991,Triple,675,0,1,0,1,0,1,1,1,1,0,Any,Working,4.3
+YourSpace Aundh,Aundh,15791,Single,699,1,0,1,1,1,0,0,1,1,0,Any,Student,4.5
+Colive Baner,Baner,16857,Single,695,1,1,1,1,0,0,1,0,0,1,Male,Working,4.9
+HelloWorld Living Hadapsar,Hadapsar,9137,Triple,397,0,1,0,0,1,1,0,0,1,1,Male,Working,4.9
+Nestaway Kothrud,Kothrud,13655,Single,435,0,1,0,0,1,0,0,0,1,1,Male,Student,3.7
+OYO Life Aundh,Aundh,13231,Triple,388,0,1,1,1,1,0,1,1,1,1,Male,Working,4.2
+Zolo Stays Hadapsar,Hadapsar,11241,Double,674,1,1,0,1,1,1,0,1,1,0,Male,Working,4.4
+Zolo Stays Hadapsar,Hadapsar,11679,Double,528,0,1,1,1,0,1,1,1,1,0,Any,Student,4.4
+Nestaway Kothrud,Kothrud,14052,Single,591,1,1,0,1,0,0,1,0,1,1,Any,Student,3.6
+Stanza Living Pimpri,Pimpri,13300,Single,424,1,1,1,1,1,0,0,0,1,1,Male,Working,4.6
+Stanza Living Aundh,Aundh,16047,Single,445,0,1,1,0,0,1,1,0,0,0,Any,Working,4.3
+LivStation Kothrud,Kothrud,9379,Triple,691,0,0,0,0,0,1,0,0,1,1,Male,Student,3.6
+Grexter Baner,Baner,15350,Single,493,0,0,1,0,0,1,1,0,1,1,Male,Student,3.9
+Colive Shivaji Nagar,Shivaji Nagar,11185,Triple,572,0,1,0,0,1,0,0,0,0,1,Female,Student,4.6
+CoHo Wakad,Wakad,10452,Triple,519,1,0,1,1,1,0,0,1,0,1,Male,Working,4.8
+EliteStay Wakad,Wakad,12656,Single,676,0,0,1,0,1,1,0,0,1,1,Male,Student,4.6
+Nestaway Viman Nagar,Viman Nagar,12925,Triple,522,0,0,1,1,0,0,1,1,0,0,Male,Working,4.2
+Zolo Stays Magarpatta,Magarpatta,14507,Single,661,0,0,0,0,0,0,1,1,0,0,Male,Working,4.2
+YourSpace Magarpatta,Magarpatta,14728,Single,576,1,0,0,0,0,1,1,0,0,1,Any,Working,3.6
+UrbanNest Shivaji Nagar,Shivaji Nagar,13952,Single,361,1,0,0,0,0,1,1,0,1,0,Female,Working,3.6
+OYO Life Viman Nagar,Viman Nagar,18531,Single,390,1,1,1,1,1,1,1,1,1,1,Any,Working,3.5
+Stanza Living Shivaji Nagar,Shivaji Nagar,14689,Single,605,0,1,0,1,1,0,0,1,0,0,Male,Student,4.9
+EliteStay Magarpatta,Magarpatta,13223,Double,526,1,0,0,0,0,1,0,1,0,1,Any,Student,4.6
+Colive Shivaji Nagar,Shivaji Nagar,11404,Double,355,0,0,0,0,0,1,0,0,0,0,Male,Student,5.0
+LivStation Viman Nagar,Viman Nagar,11577,Triple,350,0,0,0,0,0,1,1,0,0,0,Any,Student,4.4
+HelloWorld Living Kothrud,Kothrud,15237,Single,608,1,1,1,1,0,1,0,1,1,1,Any,Working,4.8
+OYO Life Viman Nagar,Viman Nagar,16728,Single,415,1,1,0,0,0,1,0,0,0,0,Any,Student,4.9
+HelloWorld Living Wakad,Wakad,13048,Double,684,1,1,1,1,0,0,0,0,1,1,Female,Student,4.3
+Stanza Living Kothrud,Kothrud,14368,Single,611,0,1,1,1,0,1,0,1,1,1,Male,Working,4.0
+YourSpace Hinjewadi,Hinjewadi,8159,Triple,533,0,0,0,1,0,0,1,1,1,1,Male,Student,4.8
+HelloWorld Living Wakad,Wakad,11904,Single,350,1,0,0,0,0,1,1,1,0,1,Male,Student,4.0
+CoHo Wakad,Wakad,13238,Single,699,1,1,0,0,0,1,0,0,0,1,Any,Student,4.1
+HelloWorld Living Kothrud,Kothrud,11555,Double,363,1,0,1,0,0,0,1,0,0,0,Female,Working,4.1
+UrbanNest Pimpri,Pimpri,11249,Double,588,0,1,1,0,1,0,0,0,0,0,Male,Working,4.2
+HelloWorld Living Hinjewadi,Hinjewadi,9230,Triple,475,0,1,0,0,0,1,1,0,0,0,Male,Student,4.0
+CoHo Shivaji Nagar,Shivaji Nagar,12075,Double,585,0,0,0,1,0,1,0,1,1,0,Any,Working,3.9
+HelloWorld Living Viman Nagar,Viman Nagar,15736,Double,626,1,1,0,1,0,0,1,0,0,0,Female,Working,3.9
+EliteStay Baner,Baner,15042,Double,389,0,1,1,1,0,1,0,0,0,0,Male,Working,5.0
+Nestaway Viman Nagar,Viman Nagar,16297,Double,411,1,1,0,1,0,1,1,0,1,1,Male,Working,4.3
+YourSpace Pimpri,Pimpri,9224,Double,462,0,0,1,0,1,1,1,1,0,1,Any,Student,4.4
+OYO Life Viman Nagar,Viman Nagar,15309,Single,487,1,0,0,1,0,0,0,0,1,1,Female,Student,4.5
+SmartLiving Baner,Baner,13918,Single,444,0,0,0,0,0,0,0,1,1,0,Male,Student,4.7
+HelloWorld Living Wakad,Wakad,11319,Double,409,0,1,0,0,1,1,0,0,0,1,Male,Working,4.7
+YourSpace Aundh,Aundh,14073,Double,438,1,1,0,0,0,0,0,0,1,1,Male,Working,4.1
+LivStation Pimpri,Pimpri,10492,Triple,494,1,1,1,0,0,1,0,0,0,0,Male,Student,4.1
+EliteStay Aundh,Aundh,11799,Triple,460,0,0,1,1,0,0,0,1,1,1,Male,Student,4.3
+YourSpace Hadapsar,Hadapsar,8753,Triple,435,1,0,1,0,0,0,0,0,0,0,Female,Working,4.2
+ComfortStay Magarpatta,Magarpatta,16014,Single,485,1,1,0,0,0,1,0,1,1,1,Male,Student,3.8
+SmartLiving Wakad,Wakad,8310,Triple,679,0,0,0,1,1,1,0,0,0,1,Female,Working,4.1
+StayAbode Magarpatta,Magarpatta,15615,Double,520,0,1,1,0,1,1,1,0,0,0,Male,Working,3.5
+UrbanNest Magarpatta,Magarpatta,16225,Single,606,1,0,1,0,1,0,0,1,1,0,Female,Student,5.0
+LivStation Baner,Baner,12430,Double,658,0,0,0,0,1,0,0,1,0,0,Male,Working,4.7
+UrbanNest Aundh,Aundh,12009,Double,696,0,0,0,1,0,1,0,1,1,0,Male,Working,3.8
+UrbanNest Hinjewadi,Hinjewadi,9862,Double,499,1,0,0,1,1,0,1,0,0,0,Female,Working,3.8
+Zolo Stays Kothrud,Kothrud,10359,Triple,676,0,1,0,0,1,1,1,1,0,0,Male,Working,3.6
+CoHo Hadapsar,Hadapsar,9085,Triple,368,0,1,0,1,1,1,0,0,0,0,Female,Student,4.7
+ComfortStay Wakad,Wakad,12063,Double,404,1,1,0,1,1,1,0,0,1,0,Any,Student,4.1
+CoHo Magarpatta,Magarpatta,14348,Triple,670,1,1,1,0,0,0,1,1,1,0,Male,Student,3.9
+EliteStay Hadapsar,Hadapsar,8903,Triple,613,0,0,1,1,0,0,0,0,0,0,Female,Student,3.9
+Stanza Living Pimpri,Pimpri,11743,Double,356,0,1,1,1,0,1,0,1,0,0,Female,Student,4.6
+YourSpace Aundh,Aundh,11508,Triple,360,1,0,0,1,0,1,1,1,0,0,Female,Student,4.1
+Nestaway Hadapsar,Hadapsar,9939,Triple,691,1,1,0,0,1,1,1,0,1,0,Male,Working,4.3
+HelloWorld Living Hadapsar,Hadapsar,11000,Single,627,1,0,0,1,0,1,1,0,0,0,Any,Working,5.0
+LivStation Magarpatta,Magarpatta,15855,Single,383,0,1,0,0,0,1,1,1,0,1,Male,Student,4.5
+StayAbode Magarpatta,Magarpatta,14109,Triple,586,0,1,1,0,0,0,0,1,0,1,Male,Student,3.8
+Nestaway Kothrud,Kothrud,13504,Double,530,0,1,1,1,1,1,1,1,1,0,Any,Working,3.6
+CoHo Pimpri,Pimpri,9122,Triple,595,1,1,0,0,0,1,0,1,1,0,Female,Student,4.2
+LivStation Magarpatta,Magarpatta,12281,Triple,503,1,0,0,1,0,0,1,0,0,0,Female,Student,4.0
+OYO Life Pimpri,Pimpri,9997,Single,457,0,0,0,0,1,1,0,0,0,0,Any,Working,3.5
+StayAbode Hinjewadi,Hinjewadi,11814,Single,667,1,0,0,0,0,0,1,0,0,0,Any,Working,4.5
+Grexter Kothrud,Kothrud,11870,Triple,375,0,1,1,1,1,0,1,0,1,0,Any,Working,4.6
+Nestaway Hadapsar,Hadapsar,11936,Single,525,0,1,0,1,1,0,1,0,0,0,Female,Student,4.9
+CoHo Wakad,Wakad,10158,Triple,457,1,1,0,0,1,0,1,0,0,1,Male,Working,4.8
+ComfortStay Pimpri,Pimpri,9920,Double,559,0,0,1,0,0,1,0,1,0,1,Male,Working,4.1
+Nestaway Wakad,Wakad,11407,Triple,388,0,1,1,1,0,0,0,0,1,1,Female,Working,3.6
+LivStation Kothrud,Kothrud,13925,Single,689,1,0,1,0,1,1,1,0,0,1,Male,Student,3.9
+OYO Life Hinjewadi,Hinjewadi,14504,Single,422,1,1,1,1,1,1,1,0,0,1,Any,Student,4.1
+CoHo Baner,Baner,11301,Triple,360,1,0,0,0,0,1,1,0,1,0,Female,Student,5.0
+Stanza Living Hadapsar,Hadapsar,9106,Triple,662,1,1,0,0,1,0,0,0,1,1,Female,Student,3.8
+ComfortStay Hinjewadi,Hinjewadi,10752,Double,527,0,0,1,0,0,0,0,0,1,1,Female,Working,5.0
+UrbanNest Hinjewadi,Hinjewadi,9609,Triple,454,1,0,1,0,0,0,0,1,1,0,Any,Student,3.7
+Stanza Living Shivaji Nagar,Shivaji Nagar,13254,Triple,473,0,1,1,1,0,0,1,0,0,0,Any,Working,3.9
+CoHo Aundh,Aundh,13913,Double,650,1,1,0,1,1,0,1,0,0,0,Female,Student,4.9
+Zolo Stays Hinjewadi,Hinjewadi,9591,Double,408,1,0,0,0,0,1,1,0,1,1,Any,Working,4.6
+LivStation Shivaji Nagar,Shivaji Nagar,15325,Single,380,1,1,0,0,1,1,0,0,0,0,Any,Working,3.7
+ComfortStay Aundh,Aundh,13761,Double,395,0,0,1,1,1,1,0,0,1,0,Any,Student,4.3
+Grexter Pimpri,Pimpri,10254,Triple,582,1,1,1,1,0,0,1,1,0,1,Female,Student,4.1
+HelloWorld Living Aundh,Aundh,16823,Single,542,1,1,1,1,1,1,1,0,1,0,Female,Working,3.6
+Colive Wakad,Wakad,11959,Double,378,1,1,0,0,1,1,0,0,1,0,Any,Student,4.0
+LivStation Hinjewadi,Hinjewadi,9696,Triple,388,1,0,1,1,1,1,0,1,0,0,Any,Student,4.7
+StayAbode Baner,Baner,15239,Double,370,0,1,1,1,0,0,0,0,1,1,Any,Working,4.8
+ComfortStay Baner,Baner,12161,Double,512,0,0,0,0,0,0,1,1,1,0,Male,Student,4.6
+EliteStay Wakad,Wakad,10819,Triple,376,1,1,0,1,1,1,0,0,0,0,Female,Working,4.6
+SmartLiving Hinjewadi,Hinjewadi,12952,Single,555,1,1,0,1,1,1,0,1,1,0,Any,Student,4.4
+CoHo Baner,Baner,16143,Single,413,1,1,0,1,0,1,1,0,0,1,Male,Student,3.5
+StayAbode Wakad,Wakad,13300,Double,451,1,1,1,0,0,1,1,0,0,0,Male,Working,4.6
+Zolo Stays Hinjewadi,Hinjewadi,12959,Single,551,0,1,0,1,1,0,1,1,1,1,Female,Working,3.6
+Colive Kothrud,Kothrud,12665,Single,439,0,0,1,0,0,1,1,1,0,1,Female,Working,4.7
+LivStation Wakad,Wakad,12073,Double,572,0,1,0,1,0,0,0,0,1,0,Male,Working,4.9
+YourSpace Pimpri,Pimpri,11507,Double,663,1,1,1,1,0,0,0,0,0,1,Female,Working,4.2
+Grexter Shivaji Nagar,Shivaji Nagar,13042,Double,496,1,0,1,1,1,0,1,0,0,0,Any,Working,4.0
+OYO Life Pimpri,Pimpri,10461,Single,661,0,0,0,1,0,1,1,1,1,0,Male,Student,4.5
+OYO Life Magarpatta,Magarpatta,12161,Triple,508,0,0,0,1,0,0,0,0,1,0,Female,Student,4.8
+Stanza Living Aundh,Aundh,14916,Double,577,1,1,1,1,0,0,1,0,1,1,Female,Student,4.9
+OYO Life Viman Nagar,Viman Nagar,12851,Triple,574,1,0,0,1,1,0,1,0,0,1,Any,Working,4.6
+HelloWorld Living Hadapsar,Hadapsar,12117,Double,665,1,1,1,1,0,0,0,1,0,0,Male,Student,4.4
+OYO Life Hadapsar,Hadapsar,12462,Single,610,1,1,0,1,0,0,0,0,1,1,Any,Student,4.7
+Grexter Pimpri,Pimpri,10104,Single,681,0,0,0,0,1,0,1,1,1,1,Female,Student,4.1
+OYO Life Baner,Baner,11986,Triple,553,1,0,0,1,1,1,1,0,0,0,Male,Student,4.8
+OYO Life Pimpri,Pimpri,9510,Triple,369,0,1,1,0,0,1,1,1,1,0,Female,Student,4.5
+OYO Life Hinjewadi,Hinjewadi,9275,Double,591,0,0,0,0,0,0,0,1,1,1,Any,Student,3.5
+YourSpace Shivaji Nagar,Shivaji Nagar,11293,Double,500,0,0,0,0,1,0,0,1,0,1,Female,Student,3.7
+OYO Life Wakad,Wakad,11657,Double,435,1,0,1,1,0,0,0,1,0,1,Any,Working,4.5
+StayAbode Hadapsar,Hadapsar,12180,Double,677,0,1,1,1,1,0,1,1,0,1,Male,Working,4.9
+Stanza Living Kothrud,Kothrud,11961,Triple,541,0,1,1,0,1,0,0,1,1,1,Female,Student,5.0
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,13380,Single,481,1,0,0,0,0,0,0,0,1,1,Female,Student,4.7
+OYO Life Wakad,Wakad,11600,Single,492,0,0,0,0,0,0,1,1,1,0,Male,Working,4.4
+UrbanNest Aundh,Aundh,11485,Triple,459,1,0,0,0,0,1,0,0,1,1,Female,Working,4.6
+StayAbode Shivaji Nagar,Shivaji Nagar,12964,Triple,482,0,1,1,1,1,1,1,0,0,1,Female,Working,4.4
+Colive Baner,Baner,12320,Triple,456,0,1,0,1,1,1,1,0,0,0,Any,Working,4.5
+OYO Life Shivaji Nagar,Shivaji Nagar,11463,Triple,401,0,0,1,0,0,1,0,1,1,0,Female,Student,4.9
+Colive Hinjewadi,Hinjewadi,12758,Double,457,1,1,1,1,0,0,1,1,0,1,Female,Student,4.3
+HelloWorld Living Hadapsar,Hadapsar,9274,Triple,521,1,0,1,0,1,1,1,1,1,1,Male,Working,3.7
+LivStation Hadapsar,Hadapsar,10677,Double,474,1,0,1,1,0,1,0,0,1,1,Female,Working,4.7
+Stanza Living Kothrud,Kothrud,12156,Double,513,0,0,1,1,1,0,1,1,0,1,Female,Student,4.1
+EliteStay Aundh,Aundh,12104,Triple,509,0,0,1,1,0,0,0,0,1,1,Any,Working,3.9
+Colive Shivaji Nagar,Shivaji Nagar,14136,Double,590,0,1,1,0,0,0,1,0,1,1,Any,Student,4.0
+Nestaway Hinjewadi,Hinjewadi,12675,Double,422,1,1,1,0,0,1,1,1,0,0,Male,Student,4.0
+CoHo Hadapsar,Hadapsar,13029,Single,399,0,1,1,1,0,1,0,1,0,1,Any,Working,3.8
+SmartLiving Magarpatta,Magarpatta,14470,Triple,465,1,1,1,0,1,1,1,0,0,1,Female,Working,3.6
+StayAbode Aundh,Aundh,13054,Single,494,0,0,0,0,0,1,1,1,1,0,Any,Working,4.1
+YourSpace Hadapsar,Hadapsar,9448,Triple,580,1,1,0,1,1,1,1,0,0,1,Male,Student,4.7
+UrbanNest Viman Nagar,Viman Nagar,16269,Double,598,0,1,1,0,0,1,0,1,0,0,Male,Student,4.0
+StayAbode Baner,Baner,15141,Double,450,0,1,1,1,0,1,0,1,0,0,Female,Working,4.9
+Colive Magarpatta,Magarpatta,14147,Double,363,1,0,0,1,1,1,1,1,1,0,Male,Student,4.1
+ComfortStay Wakad,Wakad,10592,Triple,659,1,0,1,1,1,1,1,1,0,1,Male,Working,4.4
+OYO Life Kothrud,Kothrud,13652,Double,374,1,1,1,0,1,0,0,0,1,0,Any,Working,3.6
+Nestaway Baner,Baner,14462,Double,636,0,1,0,1,1,0,0,1,1,1,Any,Student,4.7
+LivStation Magarpatta,Magarpatta,16382,Single,448,1,1,0,1,0,0,1,0,0,0,Male,Student,4.7
+StayAbode Hinjewadi,Hinjewadi,10858,Triple,657,1,1,1,0,1,1,0,1,0,0,Male,Working,4.5
+StayAbode Viman Nagar,Viman Nagar,12454,Triple,363,1,0,0,1,0,1,1,0,0,0,Any,Student,4.1
+Grexter Aundh,Aundh,14470,Double,414,0,1,1,0,0,1,1,0,0,1,Male,Student,4.8
+OYO Life Aundh,Aundh,14502,Single,657,1,0,0,1,1,0,0,0,1,0,Any,Student,4.2
+Grexter Baner,Baner,15721,Double,370,1,1,1,1,1,0,0,0,1,0,Female,Student,3.7
+CoHo Kothrud,Kothrud,13755,Single,626,0,0,1,1,1,0,0,1,1,1,Any,Student,4.5
+Colive Viman Nagar,Viman Nagar,15948,Single,450,0,0,1,0,1,0,0,0,1,1,Male,Working,3.6
+SmartLiving Kothrud,Kothrud,14226,Single,577,0,1,0,1,0,0,1,0,1,1,Any,Working,4.7
+Grexter Hadapsar,Hadapsar,8119,Triple,387,1,0,0,1,0,0,1,1,1,1,Any,Working,4.3
+SmartLiving Kothrud,Kothrud,12303,Triple,673,1,1,1,0,0,1,0,1,0,0,Female,Student,4.5
+ComfortStay Magarpatta,Magarpatta,13173,Triple,530,1,0,1,1,0,1,1,0,1,1,Any,Working,4.7
+StayAbode Wakad,Wakad,9645,Triple,463,1,0,0,1,1,0,0,0,1,0,Female,Working,3.9
+StayAbode Aundh,Aundh,11996,Triple,582,1,0,1,0,0,1,1,1,0,0,Any,Working,4.5
+HelloWorld Living Aundh,Aundh,15397,Double,584,1,1,1,1,0,0,1,1,0,1,Male,Working,4.3
+StayAbode Wakad,Wakad,9887,Double,627,0,0,0,1,0,1,0,0,0,0,Any,Student,4.4
+OYO Life Pimpri,Pimpri,8127,Triple,460,0,1,0,0,0,1,0,1,0,0,Female,Working,3.5
+Grexter Kothrud,Kothrud,13272,Single,651,0,0,1,1,0,1,1,1,1,0,Any,Student,3.8
+SmartLiving Shivaji Nagar,Shivaji Nagar,16273,Single,470,0,1,1,1,1,1,1,1,1,0,Female,Student,4.1
+Grexter Hinjewadi,Hinjewadi,10019,Triple,373,0,1,1,0,0,1,1,0,0,1,Female,Student,3.7
+YourSpace Viman Nagar,Viman Nagar,17440,Single,622,1,1,0,0,1,1,1,1,1,0,Any,Student,4.2
+Nestaway Hinjewadi,Hinjewadi,13393,Single,508,1,1,0,1,1,1,1,1,1,1,Any,Student,4.5
+ComfortStay Hinjewadi,Hinjewadi,10818,Double,577,1,0,1,1,1,1,0,0,1,1,Female,Student,4.6
+ComfortStay Kothrud,Kothrud,11617,Double,510,0,1,0,0,1,0,0,0,0,1,Male,Working,4.5
+Grexter Viman Nagar,Viman Nagar,14072,Triple,399,1,1,0,0,0,1,1,0,0,1,Any,Student,4.6
+Nestaway Viman Nagar,Viman Nagar,15921,Single,418,1,0,0,0,0,0,0,1,0,1,Male,Working,3.8
+Zolo Stays Kothrud,Kothrud,14730,Single,629,1,1,0,1,1,1,1,1,0,0,Male,Working,4.6
+CoHo Viman Nagar,Viman Nagar,16925,Double,455,1,1,1,0,0,1,1,0,1,0,Female,Working,3.9
+HelloWorld Living Hinjewadi,Hinjewadi,11004,Triple,393,1,1,1,1,1,1,1,0,1,0,Male,Student,4.8
+EliteStay Baner,Baner,13138,Double,509,1,0,0,0,1,1,0,0,0,1,Any,Working,3.7
+OYO Life Hadapsar,Hadapsar,13381,Single,480,1,1,1,1,1,1,0,0,1,0,Any,Working,3.8
+YourSpace Kothrud,Kothrud,9428,Triple,676,0,0,0,1,1,0,0,0,0,1,Female,Student,4.3
+HelloWorld Living Pimpri,Pimpri,12909,Single,547,0,1,1,1,0,0,0,1,0,0,Female,Student,4.1
+HelloWorld Living Aundh,Aundh,14478,Double,425,1,1,0,1,1,1,1,1,0,0,Any,Working,3.7
+YourSpace Magarpatta,Magarpatta,11882,Triple,563,1,0,0,0,1,1,0,0,1,1,Any,Working,3.7
+CoHo Viman Nagar,Viman Nagar,14220,Double,603,0,0,0,1,1,1,1,0,0,1,Any,Working,3.9
+UrbanNest Magarpatta,Magarpatta,12806,Triple,617,1,0,1,0,0,0,1,0,0,0,Female,Working,3.9
+StayAbode Shivaji Nagar,Shivaji Nagar,14553,Single,617,0,1,0,0,0,0,1,1,1,1,Female,Student,4.4
+StayAbode Hinjewadi,Hinjewadi,9912,Triple,525,1,0,1,1,0,1,0,0,1,1,Any,Student,4.2
+ComfortStay Viman Nagar,Viman Nagar,15074,Double,370,1,0,1,0,1,0,1,0,1,0,Female,Student,4.0
+YourSpace Viman Nagar,Viman Nagar,14092,Double,503,0,0,0,1,0,0,0,0,0,1,Female,Working,4.6
+LivStation Shivaji Nagar,Shivaji Nagar,14175,Double,562,1,1,0,1,1,0,0,1,0,1,Female,Working,4.7
+EliteStay Magarpatta,Magarpatta,17606,Single,687,1,1,1,1,0,0,0,1,1,0,Female,Student,4.5
+Stanza Living Viman Nagar,Viman Nagar,16571,Single,415,0,1,0,1,0,0,0,0,1,0,Any,Working,3.5
+Grexter Hadapsar,Hadapsar,11515,Double,652,0,1,1,0,1,0,0,1,0,0,Female,Student,3.8
+StayAbode Hinjewadi,Hinjewadi,12666,Single,682,0,0,1,1,1,1,1,0,0,0,Any,Working,4.5
+CoHo Viman Nagar,Viman Nagar,12000,Triple,539,0,0,0,0,1,1,1,1,1,1,Any,Student,5.0
+SmartLiving Baner,Baner,16382,Single,624,0,1,1,1,1,1,0,1,1,0,Male,Working,3.5
+CoHo Hadapsar,Hadapsar,9197,Double,666,0,0,0,1,0,0,1,0,0,1,Male,Working,3.6
+StayAbode Kothrud,Kothrud,12067,Single,613,1,0,0,0,0,0,1,1,0,1,Female,Student,4.0
+Nestaway Viman Nagar,Viman Nagar,15267,Single,616,1,0,0,0,1,0,1,0,1,1,Female,Working,4.4
+YourSpace Aundh,Aundh,15904,Single,384,1,1,0,0,1,0,0,0,0,0,Male,Working,4.8
+Grexter Kothrud,Kothrud,13458,Single,657,0,0,1,1,1,1,1,0,0,0,Male,Working,4.4
+StayAbode Hinjewadi,Hinjewadi,9905,Double,416,1,0,0,0,1,0,0,1,1,1,Female,Working,4.9
+ComfortStay Wakad,Wakad,9212,Triple,617,0,0,0,1,0,1,1,1,0,1,Female,Working,4.9
+YourSpace Hinjewadi,Hinjewadi,9748,Double,661,0,0,0,0,0,0,1,1,0,1,Male,Student,4.3
+Zolo Stays Kothrud,Kothrud,13256,Double,541,0,1,1,0,1,1,0,1,0,0,Female,Working,3.9
+LivStation Shivaji Nagar,Shivaji Nagar,13182,Single,388,1,0,0,0,0,1,0,0,0,0,Male,Working,4.6
+ComfortStay Hinjewadi,Hinjewadi,8955,Triple,458,0,0,1,0,0,1,1,0,1,1,Male,Working,3.9
+Colive Magarpatta,Magarpatta,13730,Triple,526,1,1,0,1,0,0,1,0,1,0,Any,Working,4.5
+Zolo Stays Wakad,Wakad,10912,Double,681,0,0,1,1,0,0,0,1,1,1,Female,Student,4.0
+Nestaway Hadapsar,Hadapsar,9009,Double,467,0,0,0,1,1,0,0,0,1,1,Male,Student,3.7
+LivStation Hinjewadi,Hinjewadi,10080,Double,617,0,0,1,0,1,0,1,1,1,1,Any,Student,4.2
+OYO Life Magarpatta,Magarpatta,16295,Single,456,0,1,0,0,0,0,0,1,0,1,Female,Working,4.5
+StayAbode Hadapsar,Hadapsar,12955,Single,684,0,1,1,1,1,1,1,1,0,0,Male,Student,3.6
+Colive Magarpatta,Magarpatta,14732,Triple,545,0,1,1,1,0,1,0,1,1,1,Male,Working,4.6
+UrbanNest Baner,Baner,13425,Triple,654,0,1,1,1,1,0,0,0,0,0,Male,Working,4.8
+OYO Life Pimpri,Pimpri,11733,Double,693,1,1,1,1,1,0,0,1,0,0,Any,Student,4.9
+ComfortStay Baner,Baner,15326,Double,594,0,1,1,0,1,0,1,0,1,1,Female,Working,4.9
+ComfortStay Aundh,Aundh,12796,Double,408,1,0,0,0,1,1,1,1,0,0,Any,Working,4.1
+Nestaway Viman Nagar,Viman Nagar,15446,Single,391,0,0,0,0,1,0,1,0,0,0,Female,Working,4.6
+StayAbode Magarpatta,Magarpatta,16184,Single,629,0,1,0,1,0,1,0,0,1,0,Male,Student,3.7
+Grexter Wakad,Wakad,9163,Triple,624,1,0,0,0,0,1,1,1,1,0,Male,Student,4.1
+ComfortStay Aundh,Aundh,16321,Single,396,0,1,1,0,0,1,0,0,1,0,Female,Student,4.6
+Grexter Hadapsar,Hadapsar,12646,Single,653,0,1,1,0,1,1,1,1,0,0,Female,Student,4.0
+Stanza Living Baner,Baner,13798,Double,528,0,0,1,1,0,0,0,0,1,0,Male,Working,4.2
+ComfortStay Hinjewadi,Hinjewadi,8615,Triple,686,0,0,1,0,0,0,1,0,0,1,Male,Student,3.9
+Stanza Living Pimpri,Pimpri,8719,Triple,371,0,1,0,0,0,0,0,1,0,0,Male,Working,4.6
+SmartLiving Viman Nagar,Viman Nagar,16695,Double,406,1,1,1,0,1,1,1,0,1,0,Female,Student,5.0
+EliteStay Wakad,Wakad,11300,Double,386,0,1,0,1,0,0,0,1,0,0,Male,Working,4.9
+YourSpace Shivaji Nagar,Shivaji Nagar,12273,Triple,424,0,1,0,1,0,1,0,0,1,1,Any,Working,3.7
+StayAbode Wakad,Wakad,12045,Single,493,0,0,0,1,1,1,1,0,0,1,Female,Working,3.7
+SmartLiving Magarpatta,Magarpatta,15431,Single,404,1,0,0,1,1,0,0,1,0,1,Any,Working,4.0
+LivStation Aundh,Aundh,10612,Triple,563,0,0,0,1,0,0,0,0,0,0,Any,Student,4.6
+YourSpace Magarpatta,Magarpatta,16677,Double,402,1,1,1,1,1,1,1,1,1,1,Any,Working,4.3
+Stanza Living Baner,Baner,15559,Single,476,0,0,1,1,1,0,0,1,1,1,Any,Student,4.6
+Stanza Living Shivaji Nagar,Shivaji Nagar,11387,Triple,613,0,1,0,1,1,1,1,1,0,0,Male,Working,3.9
+YourSpace Shivaji Nagar,Shivaji Nagar,13451,Single,687,1,0,0,0,0,0,0,0,1,1,Any,Student,4.2
+StayAbode Kothrud,Kothrud,13928,Double,566,1,1,1,0,0,0,1,0,1,0,Any,Working,3.7
+SmartLiving Aundh,Aundh,13792,Single,550,0,0,0,0,1,1,0,0,1,0,Male,Working,4.7
+Stanza Living Aundh,Aundh,13295,Double,605,0,0,1,1,0,1,1,0,0,0,Female,Student,4.1
+UrbanNest Hadapsar,Hadapsar,11665,Single,659,0,1,0,0,1,0,1,1,0,0,Female,Student,4.7
+StayAbode Hadapsar,Hadapsar,12125,Single,498,0,1,0,1,1,0,1,1,0,1,Female,Working,4.4
+Grexter Aundh,Aundh,10052,Triple,395,0,0,0,0,1,1,1,0,1,0,Male,Student,4.9
+HelloWorld Living Wakad,Wakad,13079,Double,373,0,1,1,1,0,0,0,0,1,0,Male,Student,4.8
+StayAbode Magarpatta,Magarpatta,14697,Double,632,1,0,1,0,1,1,0,0,1,1,Female,Student,3.6
+YourSpace Shivaji Nagar,Shivaji Nagar,13318,Double,662,0,1,0,1,1,0,0,0,0,1,Female,Working,3.5
+CoHo Aundh,Aundh,15228,Single,394,0,1,0,0,0,1,0,1,0,0,Female,Student,4.0
+YourSpace Hinjewadi,Hinjewadi,12017,Single,439,0,0,1,1,1,0,0,1,0,1,Male,Student,4.7
+Grexter Baner,Baner,13498,Double,375,0,0,1,1,1,0,0,0,1,1,Male,Working,4.0
+Zolo Stays Hinjewadi,Hinjewadi,9632,Triple,524,0,0,1,1,1,0,0,1,0,0,Female,Working,4.6
+UrbanNest Shivaji Nagar,Shivaji Nagar,11160,Triple,597,0,0,1,1,1,0,1,0,1,1,Female,Student,4.9
+Stanza Living Wakad,Wakad,9945,Triple,427,1,0,1,0,1,0,1,1,1,1,Female,Working,4.1
+ComfortStay Hinjewadi,Hinjewadi,11130,Double,399,1,0,1,1,0,0,1,0,0,1,Any,Student,3.9
+UrbanNest Viman Nagar,Viman Nagar,17131,Single,438,1,1,0,1,1,1,1,0,1,1,Female,Student,3.8
+UrbanNest Viman Nagar,Viman Nagar,16572,Double,648,1,1,1,1,1,0,0,0,0,1,Male,Working,5.0
+UrbanNest Hadapsar,Hadapsar,13892,Single,433,1,1,1,1,1,0,1,0,0,0,Female,Working,4.8
+Grexter Shivaji Nagar,Shivaji Nagar,15527,Single,601,1,1,0,1,1,1,1,0,0,0,Female,Student,4.6
+CoHo Viman Nagar,Viman Nagar,14937,Single,596,0,0,0,0,1,0,0,1,1,0,Any,Working,5.0
+UrbanNest Shivaji Nagar,Shivaji Nagar,13158,Single,695,0,0,0,1,1,0,1,0,0,0,Female,Student,4.7
+YourSpace Baner,Baner,15176,Single,465,1,0,0,1,1,0,1,0,1,1,Any,Working,4.8
+OYO Life Shivaji Nagar,Shivaji Nagar,14579,Single,605,0,1,0,0,1,1,1,0,0,0,Any,Working,4.4
+OYO Life Hinjewadi,Hinjewadi,9944,Double,481,0,0,0,1,0,0,0,0,1,1,Any,Working,4.8
+UrbanNest Wakad,Wakad,13304,Single,673,0,1,0,1,0,1,0,1,1,1,Female,Student,4.8
+Grexter Kothrud,Kothrud,10835,Triple,353,0,1,0,1,0,0,1,1,0,1,Any,Working,4.8
+ComfortStay Hadapsar,Hadapsar,12824,Single,598,1,1,0,0,0,0,1,0,1,0,Female,Working,3.6
+StayAbode Magarpatta,Magarpatta,13463,Triple,681,0,1,0,0,1,0,1,0,1,0,Female,Student,4.5
+SmartLiving Shivaji Nagar,Shivaji Nagar,14746,Single,534,0,0,1,1,1,1,0,0,1,0,Female,Working,4.9
+Grexter Viman Nagar,Viman Nagar,15298,Triple,551,1,1,1,0,1,0,1,0,1,0,Any,Working,4.7
+UrbanNest Shivaji Nagar,Shivaji Nagar,15452,Single,451,0,1,1,1,0,0,1,1,1,0,Male,Student,4.6
+EliteStay Hinjewadi,Hinjewadi,11800,Single,516,0,0,1,1,1,0,1,0,0,1,Male,Working,4.0
+EliteStay Wakad,Wakad,8336,Triple,398,0,0,0,0,1,1,1,1,0,0,Any,Student,4.9
+UrbanNest Kothrud,Kothrud,14150,Single,427,0,1,0,1,1,1,1,1,1,0,Female,Student,5.0
+UrbanNest Hadapsar,Hadapsar,8452,Triple,685,0,0,1,0,0,0,1,0,0,0,Female,Working,3.8
+Stanza Living Hinjewadi,Hinjewadi,9650,Triple,371,1,1,0,0,1,0,1,0,1,1,Any,Student,4.7
+CoHo Hadapsar,Hadapsar,9763,Double,473,1,0,0,1,1,0,0,0,1,1,Male,Student,3.5
+HelloWorld Living Aundh,Aundh,11068,Triple,408,0,0,1,0,1,0,0,0,1,1,Male,Working,3.6
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,10383,Triple,428,1,0,0,1,1,0,0,1,0,0,Any,Working,4.7
+SmartLiving Viman Nagar,Viman Nagar,17017,Single,506,1,1,0,1,1,0,1,0,0,1,Female,Student,3.7
+StayAbode Magarpatta,Magarpatta,16688,Single,420,1,1,0,0,1,1,1,0,0,0,Any,Student,3.8
+UrbanNest Shivaji Nagar,Shivaji Nagar,13094,Triple,506,1,1,1,1,1,1,1,1,0,0,Any,Working,3.6
+Nestaway Shivaji Nagar,Shivaji Nagar,14217,Double,483,1,1,0,1,0,0,1,1,0,1,Any,Student,4.5
+LivStation Kothrud,Kothrud,11153,Double,615,0,0,1,0,1,1,0,1,0,0,Male,Student,3.8
+ComfortStay Hinjewadi,Hinjewadi,14180,Single,417,0,1,1,1,1,1,0,0,1,0,Any,Student,4.3
+Zolo Stays Hinjewadi,Hinjewadi,12665,Single,679,1,1,0,0,1,1,1,1,1,1,Female,Student,4.2
+Grexter Hinjewadi,Hinjewadi,8722,Triple,597,0,0,0,1,0,0,1,0,0,0,Male,Student,4.5
+EliteStay Magarpatta,Magarpatta,14046,Double,574,1,0,1,0,0,0,0,0,1,1,Male,Working,3.9
+Colive Wakad,Wakad,10103,Triple,487,0,1,0,1,1,0,0,1,1,1,Female,Working,4.1
+SmartLiving Baner,Baner,12402,Triple,613,0,0,1,1,0,1,1,0,0,1,Any,Working,4.1
+Stanza Living Shivaji Nagar,Shivaji Nagar,13648,Single,405,1,0,0,0,0,1,1,0,1,0,Any,Student,4.1
+StayAbode Magarpatta,Magarpatta,14134,Triple,367,0,1,1,1,1,1,1,1,0,0,Female,Student,3.9
+EliteStay Magarpatta,Magarpatta,17787,Single,478,0,1,1,1,0,0,0,1,1,1,Any,Student,4.1
+Stanza Living Wakad,Wakad,13520,Single,458,0,1,1,0,1,0,0,0,1,1,Any,Working,4.2
+EliteStay Baner,Baner,16360,Single,401,0,1,1,1,0,1,1,0,0,0,Male,Student,4.0
+ComfortStay Hadapsar,Hadapsar,13212,Single,486,1,1,1,0,1,1,0,1,0,0,Female,Student,4.7
+LivStation Hadapsar,Hadapsar,10713,Double,563,0,1,0,1,0,0,1,0,1,0,Male,Student,4.2
+Stanza Living Hadapsar,Hadapsar,13596,Single,483,1,1,1,0,1,0,0,0,0,1,Female,Working,3.7
+YourSpace Kothrud,Kothrud,11914,Double,511,0,1,0,1,1,0,1,1,1,0,Male,Working,4.4
+ComfortStay Hadapsar,Hadapsar,8862,Triple,486,0,1,0,0,1,0,1,1,1,1,Any,Student,4.1
+Zolo Stays Hinjewadi,Hinjewadi,10557,Triple,442,1,1,0,1,0,0,1,1,0,0,Any,Student,4.5
+Nestaway Aundh,Aundh,14604,Single,356,0,0,1,1,1,0,0,0,0,1,Female,Student,4.9
+Grexter Kothrud,Kothrud,12415,Single,493,1,0,0,0,0,0,0,0,0,0,Male,Working,4.6
+SmartLiving Pimpri,Pimpri,10998,Single,688,0,0,1,1,0,0,1,0,1,0,Any,Working,4.1
+CoHo Hinjewadi,Hinjewadi,10735,Triple,371,0,1,1,0,1,1,0,1,1,1,Female,Working,3.8
+YourSpace Pimpri,Pimpri,8834,Triple,570,1,1,0,0,0,1,1,0,0,1,Any,Working,4.0
+UrbanNest Hinjewadi,Hinjewadi,11683,Triple,471,1,1,1,1,0,0,1,1,0,1,Any,Student,4.9
+LivStation Wakad,Wakad,10347,Double,485,1,0,0,1,0,1,1,0,1,0,Male,Working,4.3
+LivStation Hadapsar,Hadapsar,9091,Double,569,1,0,0,0,0,1,1,0,0,0,Female,Student,3.7
+StayAbode Hadapsar,Hadapsar,9237,Triple,519,0,0,1,1,1,1,0,0,1,1,Male,Student,4.6
+EliteStay Pimpri,Pimpri,8394,Triple,685,0,1,0,0,1,1,1,1,1,1,Male,Working,4.5
+HelloWorld Living Hinjewadi,Hinjewadi,11994,Double,571,0,1,1,1,0,1,1,1,0,0,Male,Student,4.3
+YourSpace Aundh,Aundh,12506,Double,628,1,0,0,1,0,1,1,0,0,0,Any,Working,4.7
+OYO Life Magarpatta,Magarpatta,17192,Single,445,1,1,0,1,1,0,0,0,1,1,Any,Student,4.3
+Colive Pimpri,Pimpri,11924,Double,453,1,1,1,0,1,1,0,1,1,0,Male,Working,3.6
+EliteStay Pimpri,Pimpri,9256,Triple,440,0,1,0,1,1,1,0,1,1,0,Male,Working,3.5
+HelloWorld Living Hinjewadi,Hinjewadi,9498,Triple,653,0,1,0,0,0,0,1,0,0,0,Male,Student,3.5
+OYO Life Pimpri,Pimpri,11314,Double,690,0,1,1,1,0,0,1,0,1,0,Male,Working,4.1
+Nestaway Baner,Baner,13547,Single,692,0,0,0,0,1,1,0,0,0,1,Any,Working,4.1
+HelloWorld Living Aundh,Aundh,10467,Triple,363,0,0,0,0,1,1,1,1,0,1,Any,Working,4.2
+UrbanNest Wakad,Wakad,11224,Triple,694,0,1,1,1,0,0,0,1,0,0,Male,Working,3.9
+Zolo Stays Hinjewadi,Hinjewadi,12942,Single,442,1,0,1,0,0,1,1,1,1,1,Female,Working,3.6
+StayAbode Wakad,Wakad,11642,Single,533,0,0,0,0,1,1,1,1,1,1,Female,Working,4.8
+HelloWorld Living Wakad,Wakad,14610,Single,497,0,1,1,1,1,1,0,1,1,1,Male,Working,3.8
+UrbanNest Kothrud,Kothrud,12443,Triple,530,1,1,1,0,0,1,0,0,0,1,Any,Working,4.8
+EliteStay Shivaji Nagar,Shivaji Nagar,11506,Triple,571,0,1,0,1,0,0,0,0,0,1,Female,Working,4.0
+Stanza Living Aundh,Aundh,10897,Triple,420,1,0,0,1,1,1,0,0,1,0,Female,Working,4.2
+CoHo Wakad,Wakad,13607,Double,645,1,1,1,1,0,0,1,0,0,1,Any,Working,3.8
+YourSpace Pimpri,Pimpri,13791,Single,450,1,1,1,1,0,1,0,1,0,0,Female,Working,4.8
+SmartLiving Wakad,Wakad,12287,Double,445,0,1,0,1,0,1,1,0,0,0,Female,Student,4.2
+EliteStay Magarpatta,Magarpatta,15034,Double,662,1,0,1,1,1,1,0,0,0,0,Any,Working,3.9
+EliteStay Wakad,Wakad,11905,Single,668,1,0,0,1,1,0,1,1,0,0,Any,Student,4.3
+StayAbode Shivaji Nagar,Shivaji Nagar,12210,Double,676,0,0,1,0,1,0,0,1,1,1,Male,Student,4.7
+HelloWorld Living Hadapsar,Hadapsar,8028,Triple,426,1,0,0,1,1,1,0,0,0,0,Male,Working,4.2
+SmartLiving Viman Nagar,Viman Nagar,12352,Triple,480,1,0,0,1,0,1,0,1,1,1,Male,Working,4.7
+Nestaway Viman Nagar,Viman Nagar,17705,Single,605,1,1,0,1,1,0,1,1,1,0,Any,Working,4.3
+HelloWorld Living Aundh,Aundh,12382,Double,362,1,0,0,0,0,1,0,1,1,0,Male,Student,4.4
+Stanza Living Kothrud,Kothrud,14327,Single,568,0,1,1,0,0,0,0,0,1,1,Male,Student,3.9
+Colive Pimpri,Pimpri,7271,Triple,351,1,0,0,0,0,0,0,1,0,0,Female,Working,4.3
+Colive Hadapsar,Hadapsar,12960,Single,686,1,1,0,1,1,1,0,0,0,1,Any,Working,4.5
+HelloWorld Living Baner,Baner,13148,Double,350,1,0,0,0,1,1,1,0,0,1,Any,Student,4.2
+Zolo Stays Shivaji Nagar,Shivaji Nagar,10567,Triple,456,1,0,0,1,0,0,1,1,0,1,Female,Working,3.6
+HelloWorld Living Hadapsar,Hadapsar,7867,Triple,691,0,0,0,1,1,0,0,0,1,0,Female,Working,3.5
+EliteStay Hinjewadi,Hinjewadi,9949,Double,453,1,0,0,0,0,0,1,0,0,0,Any,Student,3.9
+HelloWorld Living Kothrud,Kothrud,13379,Double,567,0,1,1,1,1,1,0,0,0,1,Male,Student,4.0
+SmartLiving Baner,Baner,13154,Double,533,1,0,0,1,0,1,1,0,1,1,Any,Working,3.9
+EliteStay Wakad,Wakad,13936,Single,533,0,1,1,1,1,1,1,1,1,0,Any,Working,4.0
+CoHo Shivaji Nagar,Shivaji Nagar,12259,Triple,359,1,0,1,1,1,1,1,0,1,1,Any,Student,3.9
+Stanza Living Hinjewadi,Hinjewadi,11186,Double,689,0,1,0,0,0,1,0,0,1,1,Any,Working,4.0
+HelloWorld Living Hadapsar,Hadapsar,12427,Single,643,1,0,1,1,0,1,0,0,1,0,Male,Student,4.9
+StayAbode Baner,Baner,11411,Triple,652,1,0,0,1,0,1,0,1,0,0,Any,Working,4.4
+Colive Aundh,Aundh,13011,Triple,552,1,1,0,1,0,1,1,1,0,1,Male,Working,3.7
+Zolo Stays Aundh,Aundh,12013,Triple,537,0,1,0,0,1,0,0,0,0,1,Any,Working,4.8
+LivStation Hadapsar,Hadapsar,10105,Double,452,0,0,1,0,1,0,0,1,1,1,Any,Working,4.1
+Zolo Stays Wakad,Wakad,10184,Triple,598,0,1,0,1,0,0,1,1,0,0,Any,Working,4.0
+HelloWorld Living Aundh,Aundh,13028,Triple,439,0,1,1,0,0,1,1,1,0,0,Male,Student,4.8
+EliteStay Viman Nagar,Viman Nagar,14552,Triple,594,1,1,0,1,0,0,1,0,0,0,Any,Working,3.7
+UrbanNest Viman Nagar,Viman Nagar,14009,Double,591,0,0,0,1,1,0,0,1,1,1,Female,Working,4.3
+YourSpace Hadapsar,Hadapsar,7915,Triple,512,0,0,0,0,0,1,0,0,0,0,Female,Working,3.6
+Grexter Pimpri,Pimpri,10465,Single,477,0,0,0,0,1,0,0,1,1,0,Female,Student,3.6
+EliteStay Baner,Baner,13993,Triple,608,1,1,1,1,1,0,1,1,1,0,Female,Working,4.3
+Nestaway Shivaji Nagar,Shivaji Nagar,12312,Triple,635,0,1,1,0,1,1,0,0,1,0,Female,Working,4.3
+CoHo Aundh,Aundh,15201,Single,471,0,0,1,1,0,1,0,0,0,1,Male,Working,3.7
+HelloWorld Living Hadapsar,Hadapsar,11711,Double,461,1,1,1,0,1,1,1,0,0,1,Any,Student,3.9
+Zolo Stays Kothrud,Kothrud,9533,Triple,499,1,0,0,0,0,1,1,1,1,0,Any,Student,4.2
+Colive Magarpatta,Magarpatta,14340,Triple,551,0,1,1,0,1,0,1,0,0,0,Any,Student,3.8
+Grexter Baner,Baner,13017,Triple,663,1,0,1,1,0,1,1,0,0,1,Female,Student,4.7
+ComfortStay Shivaji Nagar,Shivaji Nagar,14013,Double,558,0,1,1,1,1,0,0,0,0,0,Female,Working,3.9
+Grexter Shivaji Nagar,Shivaji Nagar,13186,Double,493,1,1,0,0,1,0,0,1,0,0,Female,Student,4.7
+Colive Magarpatta,Magarpatta,15871,Single,540,1,0,1,1,1,0,0,0,0,0,Any,Student,4.3
+Grexter Pimpri,Pimpri,10836,Single,557,1,0,0,0,0,0,1,1,0,1,Female,Student,4.4
+Nestaway Aundh,Aundh,15096,Double,577,0,1,1,1,0,0,1,1,0,0,Any,Working,4.3
+Stanza Living Magarpatta,Magarpatta,14663,Single,573,1,0,0,0,1,0,1,0,1,0,Female,Student,4.7
+YourSpace Hinjewadi,Hinjewadi,8666,Triple,678,1,0,0,1,1,0,1,1,1,1,Any,Student,4.1
+SmartLiving Viman Nagar,Viman Nagar,13354,Triple,424,0,0,1,0,1,1,1,1,0,1,Male,Working,4.5
+Nestaway Wakad,Wakad,12883,Single,690,1,0,1,0,0,1,0,1,1,0,Male,Student,3.9
+SmartLiving Aundh,Aundh,14315,Double,594,0,1,1,1,1,1,1,0,1,1,Any,Student,3.9
+Zolo Stays Hadapsar,Hadapsar,11847,Single,396,1,0,1,0,1,1,0,0,0,0,Male,Working,4.7
+UrbanNest Magarpatta,Magarpatta,13289,Triple,531,1,0,1,1,0,0,0,0,1,0,Female,Student,4.5
+ComfortStay Viman Nagar,Viman Nagar,16736,Double,391,1,1,1,0,1,0,1,1,1,1,Any,Student,4.5
+StayAbode Viman Nagar,Viman Nagar,16821,Single,422,1,1,0,0,0,1,1,1,1,0,Female,Student,4.4
+Stanza Living Shivaji Nagar,Shivaji Nagar,14222,Double,508,1,1,0,1,1,0,0,1,1,1,Male,Working,4.1
+Grexter Aundh,Aundh,15473,Single,681,0,1,0,1,1,1,0,1,1,1,Female,Working,4.8
+YourSpace Baner,Baner,13663,Double,367,1,0,1,0,1,1,0,1,0,0,Female,Student,3.9
+SmartLiving Aundh,Aundh,15098,Single,666,1,0,1,0,0,1,1,1,1,0,Any,Working,3.7
+UrbanNest Kothrud,Kothrud,14067,Single,555,1,0,1,1,0,0,0,1,0,1,Any,Student,3.5
+Nestaway Hinjewadi,Hinjewadi,13023,Single,482,1,0,1,1,1,0,1,1,0,0,Male,Student,3.6
+StayAbode Shivaji Nagar,Shivaji Nagar,12223,Triple,692,1,1,0,0,1,0,0,1,0,0,Any,Student,5.0
+OYO Life Pimpri,Pimpri,9357,Triple,460,0,1,1,1,0,1,1,0,0,0,Male,Student,4.2
+StayAbode Baner,Baner,13863,Double,561,1,0,1,0,0,0,1,0,0,0,Male,Working,4.6
+StayAbode Baner,Baner,12085,Triple,401,1,0,1,0,0,0,0,0,1,0,Any,Student,4.7
+Nestaway Hinjewadi,Hinjewadi,11739,Double,589,1,1,0,1,0,0,0,1,0,1,Any,Student,4.4
+SmartLiving Hadapsar,Hadapsar,11901,Double,579,0,1,1,0,0,1,1,0,0,1,Male,Working,3.7
+Grexter Hinjewadi,Hinjewadi,10707,Triple,489,1,1,0,1,0,0,0,0,1,0,Any,Student,4.9
+Zolo Stays Aundh,Aundh,13779,Single,356,0,0,0,1,1,0,1,1,1,0,Female,Working,4.1
+ComfortStay Viman Nagar,Viman Nagar,14853,Single,513,0,0,0,1,1,0,0,0,1,0,Female,Working,3.6
+HelloWorld Living Kothrud,Kothrud,12746,Triple,455,1,1,1,1,0,0,0,1,1,0,Any,Student,4.4
+Grexter Viman Nagar,Viman Nagar,15168,Double,487,1,1,0,0,1,0,1,0,1,0,Male,Student,4.3
+UrbanNest Wakad,Wakad,11643,Double,567,0,1,0,0,1,0,1,1,1,0,Male,Student,4.4
+SmartLiving Shivaji Nagar,Shivaji Nagar,14582,Single,495,0,1,0,1,0,1,1,1,0,0,Male,Working,4.3
+HelloWorld Living Baner,Baner,15469,Single,552,0,0,1,1,1,1,0,0,1,1,Female,Working,4.9
+ComfortStay Baner,Baner,12589,Double,419,1,0,0,0,0,0,0,1,1,0,Female,Student,4.3
+HelloWorld Living Aundh,Aundh,14204,Double,681,0,1,0,1,0,1,1,1,0,0,Any,Student,3.9
+StayAbode Aundh,Aundh,12721,Triple,535,1,1,0,0,1,1,1,0,0,0,Male,Working,3.6
+EliteStay Magarpatta,Magarpatta,12971,Triple,483,1,0,1,1,0,1,0,1,1,1,Female,Student,4.2
+LivStation Aundh,Aundh,12232,Triple,499,0,1,0,1,0,1,1,1,0,0,Male,Student,4.7
+Grexter Aundh,Aundh,11138,Triple,697,1,0,0,1,0,0,0,0,0,0,Male,Student,4.4
+OYO Life Viman Nagar,Viman Nagar,15490,Single,394,0,0,0,1,1,0,1,1,0,1,Any,Working,4.3
+Zolo Stays Shivaji Nagar,Shivaji Nagar,11407,Double,350,0,0,0,0,0,0,1,1,0,1,Female,Student,4.4
+YourSpace Pimpri,Pimpri,12936,Single,628,0,1,1,0,0,1,1,1,1,1,Any,Working,4.5
+Nestaway Shivaji Nagar,Shivaji Nagar,11891,Double,405,1,0,0,1,1,1,0,1,0,0,Any,Working,4.2
+Colive Pimpri,Pimpri,12591,Single,443,1,1,0,1,1,0,1,1,1,1,Male,Student,3.8
+EliteStay Baner,Baner,14387,Double,463,1,0,1,1,1,0,0,1,0,0,Any,Student,4.5
+Nestaway Hinjewadi,Hinjewadi,9504,Triple,563,0,0,1,1,1,1,0,1,1,0,Any,Working,4.7
+Zolo Stays Wakad,Wakad,11125,Triple,386,1,1,1,0,0,0,1,0,1,0,Female,Student,3.7
+ComfortStay Hinjewadi,Hinjewadi,11243,Double,395,0,1,0,1,1,1,1,1,1,0,Any,Student,4.4
+SmartLiving Magarpatta,Magarpatta,15218,Single,426,0,0,0,1,0,0,1,0,0,0,Any,Working,4.4
+Nestaway Kothrud,Kothrud,12179,Single,519,0,0,0,0,0,1,1,1,0,0,Any,Working,3.6
+Zolo Stays Viman Nagar,Viman Nagar,12088,Triple,692,0,0,0,0,0,0,1,1,1,0,Male,Working,4.1
+ComfortStay Kothrud,Kothrud,14201,Single,424,1,0,1,1,0,1,0,0,0,1,Female,Working,4.9
+Nestaway Hadapsar,Hadapsar,11748,Single,539,0,0,1,0,1,1,0,1,0,1,Male,Working,3.9
+HelloWorld Living Kothrud,Kothrud,12327,Double,678,0,1,0,1,1,0,0,0,0,0,Male,Working,3.8
+UrbanNest Wakad,Wakad,10872,Triple,388,1,1,0,0,0,1,0,1,1,1,Any,Working,4.7
+ComfortStay Shivaji Nagar,Shivaji Nagar,14520,Double,486,1,1,1,0,0,0,0,1,0,1,Female,Working,3.9
+YourSpace Hinjewadi,Hinjewadi,11524,Single,458,1,0,0,0,1,0,1,0,1,0,Female,Student,3.9
+Grexter Pimpri,Pimpri,8808,Triple,513,1,0,1,1,0,1,0,0,0,0,Male,Working,4.0
+OYO Life Pimpri,Pimpri,11786,Single,500,1,0,1,1,1,1,0,0,1,1,Male,Working,4.1
+ComfortStay Aundh,Aundh,10964,Triple,471,0,0,0,1,1,1,0,0,0,1,Any,Working,3.8
+StayAbode Viman Nagar,Viman Nagar,13826,Triple,667,1,0,1,0,1,1,1,0,0,1,Male,Working,4.7
+EliteStay Hadapsar,Hadapsar,9484,Triple,581,0,1,0,0,1,1,0,1,0,0,Any,Working,3.6
+HelloWorld Living Baner,Baner,11920,Triple,564,1,0,0,0,0,0,0,1,1,1,Female,Student,4.0
+HelloWorld Living Hadapsar,Hadapsar,12374,Single,538,1,1,0,1,0,0,1,1,1,0,Female,Student,4.9
+Colive Aundh,Aundh,13058,Double,458,1,0,1,0,1,0,1,1,1,1,Male,Student,4.6
+HelloWorld Living Pimpri,Pimpri,9230,Double,521,1,0,0,0,1,0,1,0,0,0,Any,Student,4.7
+OYO Life Magarpatta,Magarpatta,16231,Single,397,0,1,0,1,0,0,0,0,0,0,Any,Working,4.9
+Stanza Living Hinjewadi,Hinjewadi,11162,Double,399,0,1,0,0,0,0,0,1,1,1,Female,Working,4.0
+Stanza Living Viman Nagar,Viman Nagar,14360,Triple,538,0,1,1,0,1,0,0,1,0,0,Female,Working,4.3
+Colive Kothrud,Kothrud,12276,Double,541,1,0,1,1,0,0,1,1,1,0,Male,Student,3.7
+ComfortStay Pimpri,Pimpri,9096,Triple,594,1,1,0,0,1,0,1,1,0,1,Female,Student,4.8
+Stanza Living Wakad,Wakad,10934,Double,699,1,0,0,0,1,1,0,1,1,0,Female,Student,5.0
+Stanza Living Aundh,Aundh,16696,Single,614,1,1,1,0,0,0,1,0,0,1,Any,Working,4.3
+Zolo Stays Viman Nagar,Viman Nagar,14694,Double,350,1,0,0,1,0,1,0,1,0,0,Male,Working,3.6
+CoHo Kothrud,Kothrud,12173,Double,405,0,0,1,1,1,1,1,1,0,1,Male,Student,3.6
+Nestaway Viman Nagar,Viman Nagar,14681,Single,635,0,0,0,0,0,1,0,0,1,0,Female,Working,4.2
+Zolo Stays Hinjewadi,Hinjewadi,10993,Triple,401,1,1,1,0,1,1,1,1,0,1,Female,Student,3.9
+CoHo Magarpatta,Magarpatta,13331,Double,677,0,0,0,1,1,0,1,0,1,1,Male,Working,3.9
+HelloWorld Living Pimpri,Pimpri,8488,Triple,561,0,0,1,0,0,0,1,0,1,1,Female,Student,4.6
+LivStation Magarpatta,Magarpatta,14270,Double,556,0,0,1,1,1,0,1,0,1,1,Female,Working,3.7
+HelloWorld Living Pimpri,Pimpri,8276,Triple,670,0,0,1,1,0,1,0,0,1,0,Any,Student,3.9
+Zolo Stays Aundh,Aundh,12970,Triple,536,0,1,1,1,1,1,0,1,1,1,Any,Student,3.8
+Grexter Hadapsar,Hadapsar,9301,Triple,474,1,1,0,1,1,1,1,0,1,0,Male,Student,4.7
+Zolo Stays Viman Nagar,Viman Nagar,16044,Single,628,1,0,1,0,0,1,1,0,1,1,Any,Working,3.8
+Grexter Magarpatta,Magarpatta,16066,Single,446,0,1,0,0,1,0,0,0,0,1,Any,Working,4.1
+Grexter Magarpatta,Magarpatta,11514,Triple,381,0,0,0,0,1,0,0,0,0,0,Any,Working,4.9
+YourSpace Shivaji Nagar,Shivaji Nagar,15969,Single,475,0,1,1,1,1,0,1,0,1,1,Male,Student,3.8
+SmartLiving Magarpatta,Magarpatta,15020,Triple,536,1,1,1,1,0,1,0,1,0,1,Female,Working,3.8
+UrbanNest Baner,Baner,12992,Double,423,0,0,0,0,0,1,1,1,0,1,Male,Student,4.0
+Stanza Living Aundh,Aundh,13624,Double,667,0,0,1,1,1,1,0,0,1,0,Male,Working,4.9
+Grexter Aundh,Aundh,14951,Double,623,1,1,1,1,0,0,0,1,0,0,Female,Working,4.0
+EliteStay Wakad,Wakad,13387,Single,456,0,1,0,0,0,1,1,0,1,1,Male,Student,3.9
+OYO Life Aundh,Aundh,13137,Triple,480,0,1,1,1,0,1,1,1,1,0,Female,Student,4.9
+YourSpace Kothrud,Kothrud,13711,Single,467,1,0,1,0,0,0,0,0,1,0,Any,Working,4.6
+ComfortStay Pimpri,Pimpri,11699,Single,697,1,1,0,0,0,1,1,1,1,1,Female,Working,4.2
+EliteStay Hadapsar,Hadapsar,12523,Single,417,1,0,1,1,1,0,0,1,0,0,Male,Working,4.9
+YourSpace Kothrud,Kothrud,11723,Double,415,1,0,0,1,1,1,1,1,1,0,Female,Student,4.0
+CoHo Hadapsar,Hadapsar,13567,Single,671,1,1,1,1,1,1,0,1,0,0,Female,Working,4.0
+CoHo Viman Nagar,Viman Nagar,17850,Single,420,1,1,1,1,1,1,0,1,1,0,Any,Working,3.8
+Colive Aundh,Aundh,12080,Triple,530,0,1,0,0,0,0,0,1,0,1,Male,Student,4.5
+Nestaway Viman Nagar,Viman Nagar,16892,Single,468,1,0,1,0,0,0,1,1,1,1,Female,Student,4.6
+Zolo Stays Viman Nagar,Viman Nagar,14682,Triple,617,1,1,0,1,1,0,0,0,1,0,Any,Working,3.8
+Stanza Living Wakad,Wakad,11629,Double,611,0,1,0,1,1,0,0,1,1,0,Male,Student,4.2
+YourSpace Shivaji Nagar,Shivaji Nagar,11768,Triple,461,1,0,1,1,1,0,1,0,1,1,Male,Working,4.2
+LivStation Viman Nagar,Viman Nagar,14934,Double,478,0,1,0,1,1,1,0,1,1,0,Female,Working,4.8
+CoHo Viman Nagar,Viman Nagar,16065,Double,549,0,1,1,1,0,0,1,1,1,0,Male,Working,3.8
+Grexter Shivaji Nagar,Shivaji Nagar,13471,Double,632,0,1,0,0,1,1,1,0,1,1,Female,Working,4.7
+EliteStay Magarpatta,Magarpatta,13476,Double,413,1,0,0,0,1,0,1,1,1,0,Any,Working,4.9
+SmartLiving Wakad,Wakad,10201,Double,603,0,0,0,1,1,0,0,1,0,1,Male,Working,4.1
+LivStation Magarpatta,Magarpatta,12607,Triple,673,1,0,0,1,1,1,1,0,0,0,Female,Student,4.5
+Stanza Living Hinjewadi,Hinjewadi,11203,Double,406,0,0,1,1,0,1,1,1,0,0,Male,Working,4.3
+StayAbode Hinjewadi,Hinjewadi,13107,Single,431,0,1,1,0,1,1,0,1,1,0,Male,Student,4.4
+LivStation Wakad,Wakad,9487,Triple,381,0,0,1,1,1,1,1,0,1,1,Any,Student,4.3
+Nestaway Magarpatta,Magarpatta,16223,Single,604,0,0,1,1,0,1,1,0,0,1,Any,Working,3.7
+ComfortStay Viman Nagar,Viman Nagar,16536,Single,568,1,0,1,1,0,0,0,0,0,1,Any,Working,3.8
+LivStation Baner,Baner,13031,Triple,361,0,1,0,1,1,1,0,1,1,0,Male,Working,4.5
+UrbanNest Pimpri,Pimpri,9889,Triple,391,0,1,1,1,0,0,1,0,1,1,Female,Working,4.4
+ComfortStay Hadapsar,Hadapsar,12272,Single,432,1,0,1,0,1,0,0,0,1,0,Female,Student,3.8
+LivStation Viman Nagar,Viman Nagar,15762,Triple,410,1,1,1,1,0,0,1,1,1,0,Male,Working,4.6
+Grexter Shivaji Nagar,Shivaji Nagar,11327,Triple,685,1,0,1,1,0,0,0,0,1,0,Male,Working,4.2
+Zolo Stays Hadapsar,Hadapsar,10089,Double,643,0,1,0,0,1,0,1,1,1,0,Any,Working,3.6
+CoHo Shivaji Nagar,Shivaji Nagar,11666,Triple,397,0,1,0,1,1,0,1,0,0,0,Any,Student,4.3
+SmartLiving Pimpri,Pimpri,13459,Single,544,1,1,1,0,0,0,0,0,1,1,Female,Student,3.6
+Grexter Shivaji Nagar,Shivaji Nagar,13214,Double,692,0,1,0,1,0,0,1,1,0,1,Female,Student,3.6
+SmartLiving Hadapsar,Hadapsar,10505,Single,657,0,0,0,1,0,0,0,1,0,1,Any,Student,3.8
+Colive Shivaji Nagar,Shivaji Nagar,15272,Single,359,1,0,1,1,0,0,1,1,1,0,Female,Student,5.0
+Zolo Stays Hinjewadi,Hinjewadi,12776,Single,418,1,0,1,0,0,1,0,1,0,0,Female,Student,3.8
+SmartLiving Baner,Baner,16108,Single,570,1,1,0,0,0,1,1,0,0,1,Any,Student,5.0
+SmartLiving Magarpatta,Magarpatta,12323,Triple,531,1,0,0,0,1,0,0,1,0,1,Male,Working,3.9
+OYO Life Aundh,Aundh,13425,Double,576,0,1,0,0,0,1,0,0,0,0,Male,Working,3.7
+HelloWorld Living Viman Nagar,Viman Nagar,18282,Single,436,0,1,1,1,0,1,0,1,0,1,Male,Student,4.4
+EliteStay Hinjewadi,Hinjewadi,9282,Triple,607,1,0,1,0,1,1,0,1,0,0,Any,Working,4.5
+YourSpace Kothrud,Kothrud,13728,Single,546,0,1,0,1,0,0,0,0,1,1,Female,Working,4.8
+CoHo Shivaji Nagar,Shivaji Nagar,12597,Triple,552,1,1,0,1,1,0,0,1,1,0,Any,Student,4.1
+Zolo Stays Shivaji Nagar,Shivaji Nagar,13159,Triple,562,1,1,1,0,0,1,0,0,0,1,Male,Student,4.3
+Stanza Living Hadapsar,Hadapsar,12788,Double,421,1,1,1,1,0,1,1,0,0,0,Female,Student,4.6
+Nestaway Hadapsar,Hadapsar,10678,Double,431,1,1,0,0,0,0,0,1,1,0,Male,Working,4.0
+YourSpace Baner,Baner,13078,Triple,515,1,1,0,1,1,1,0,1,1,0,Any,Working,4.7
+StayAbode Shivaji Nagar,Shivaji Nagar,13179,Single,495,0,0,0,1,1,0,1,1,1,1,Female,Working,4.3
+Stanza Living Magarpatta,Magarpatta,15618,Single,547,1,0,1,0,0,0,1,0,0,0,Female,Working,5.0
+HelloWorld Living Hinjewadi,Hinjewadi,11814,Double,691,1,1,0,1,1,1,0,1,1,0,Female,Student,3.6
+OYO Life Kothrud,Kothrud,12022,Triple,568,0,1,1,1,1,0,1,0,1,1,Male,Student,3.7
+StayAbode Viman Nagar,Viman Nagar,12555,Triple,645,0,0,1,0,0,1,1,1,0,0,Male,Working,4.6
+YourSpace Viman Nagar,Viman Nagar,16565,Single,697,1,1,0,0,0,0,1,0,0,1,Any,Student,4.6
+LivStation Hadapsar,Hadapsar,10608,Triple,530,0,1,1,1,1,0,1,0,0,0,Male,Working,4.3
+UrbanNest Magarpatta,Magarpatta,17529,Single,676,0,1,1,1,1,0,0,0,1,0,Male,Working,4.3
+YourSpace Baner,Baner,13946,Double,575,0,1,0,0,0,0,0,1,1,0,Female,Working,4.2
+HelloWorld Living Hadapsar,Hadapsar,7941,Triple,689,0,0,0,1,0,0,0,1,1,1,Male,Student,4.5
+OYO Life Pimpri,Pimpri,11673,Single,642,0,1,0,1,1,0,0,0,1,1,Female,Student,3.9
+Stanza Living Magarpatta,Magarpatta,12962,Triple,505,1,0,1,1,1,0,0,1,1,1,Female,Working,4.5
+UrbanNest Aundh,Aundh,10992,Triple,477,1,0,0,0,1,1,0,0,1,1,Any,Working,4.8
+ComfortStay Viman Nagar,Viman Nagar,17904,Single,531,0,1,1,0,0,1,1,1,0,0,Male,Working,4.0
+Zolo Stays Baner,Baner,14910,Double,370,0,1,1,0,1,0,0,1,1,0,Any,Student,4.0
+Colive Wakad,Wakad,9211,Triple,630,1,0,0,1,0,0,0,0,0,0,Any,Working,4.4
+HelloWorld Living Hinjewadi,Hinjewadi,12187,Double,538,1,1,1,0,1,1,0,0,1,1,Any,Working,3.9
+ComfortStay Baner,Baner,12517,Double,695,0,0,0,1,1,0,0,1,0,1,Female,Student,3.9
+ComfortStay Pimpri,Pimpri,11162,Single,557,1,0,0,1,0,1,0,0,1,0,Any,Student,3.6
+Zolo Stays Viman Nagar,Viman Nagar,15575,Triple,466,1,1,1,1,0,1,1,0,0,1,Any,Working,4.0
+LivStation Pimpri,Pimpri,7797,Triple,442,1,0,0,1,1,1,1,1,1,0,Male,Student,4.5
+CoHo Magarpatta,Magarpatta,17724,Single,442,1,1,1,1,0,1,0,1,0,0,Female,Working,3.7
+UrbanNest Aundh,Aundh,13816,Single,569,0,0,0,0,0,1,0,1,0,0,Any,Student,4.5
+Colive Hadapsar,Hadapsar,9428,Double,679,1,0,0,1,1,1,0,0,0,0,Female,Working,4.0
+HelloWorld Living Hinjewadi,Hinjewadi,11703,Double,642,0,1,1,0,1,1,1,1,0,1,Any,Working,3.9
+Colive Kothrud,Kothrud,11545,Single,680,0,0,0,0,1,0,1,0,0,0,Female,Working,4.2
+UrbanNest Magarpatta,Magarpatta,15815,Single,592,0,1,0,1,0,1,1,1,1,1,Female,Student,3.7
+UrbanNest Shivaji Nagar,Shivaji Nagar,11693,Double,452,0,0,0,1,0,1,0,0,0,0,Male,Working,3.6
+LivStation Hadapsar,Hadapsar,8001,Triple,481,0,0,1,0,0,1,0,0,1,0,Female,Student,4.9
+OYO Life Kothrud,Kothrud,12376,Triple,477,1,1,1,1,0,0,0,1,1,0,Any,Working,4.2
+Stanza Living Baner,Baner,16980,Single,371,0,1,1,1,1,1,0,1,1,1,Female,Student,3.8
+EliteStay Hadapsar,Hadapsar,8372,Triple,398,0,0,1,1,0,0,1,1,0,0,Male,Working,4.5
+OYO Life Kothrud,Kothrud,10122,Triple,431,1,0,1,0,0,1,1,0,0,0,Male,Student,3.8
+Zolo Stays Hinjewadi,Hinjewadi,13948,Single,449,0,1,1,1,1,0,0,0,0,1,Female,Student,3.9
+LivStation Wakad,Wakad,11553,Double,521,0,0,1,1,1,0,0,0,1,1,Any,Working,4.9
+Grexter Hinjewadi,Hinjewadi,11331,Triple,461,1,1,1,1,1,0,1,1,1,0,Male,Student,3.8
+OYO Life Baner,Baner,12673,Triple,394,1,0,1,1,0,1,1,1,1,0,Male,Working,3.7
+SmartLiving Hinjewadi,Hinjewadi,11385,Double,352,1,1,0,0,1,0,0,1,0,1,Female,Working,4.1
+Stanza Living Hadapsar,Hadapsar,7346,Triple,682,0,0,0,1,0,1,0,1,1,0,Female,Student,4.2
+ComfortStay Magarpatta,Magarpatta,12834,Triple,352,0,0,1,0,1,0,0,1,1,0,Female,Student,4.7
+Stanza Living Aundh,Aundh,14870,Double,495,0,1,1,0,1,1,0,1,1,0,Male,Working,3.6
+EliteStay Viman Nagar,Viman Nagar,17824,Single,678,0,1,1,0,0,0,1,1,1,1,Any,Working,4.6
+SmartLiving Hinjewadi,Hinjewadi,11826,Single,432,0,0,1,1,0,0,0,1,1,1,Female,Working,4.6
+CoHo Shivaji Nagar,Shivaji Nagar,13023,Single,482,0,0,0,0,0,1,0,0,1,1,Female,Working,3.6
+Stanza Living Kothrud,Kothrud,11517,Double,466,0,1,0,0,1,0,0,0,0,0,Female,Working,4.0
+Grexter Hadapsar,Hadapsar,12677,Single,565,1,1,0,0,1,1,0,1,1,1,Female,Student,4.6
+StayAbode Magarpatta,Magarpatta,16734,Single,448,0,1,0,1,1,1,1,1,1,1,Female,Working,4.8
+Stanza Living Hadapsar,Hadapsar,8551,Double,618,0,0,0,0,1,0,0,0,0,0,Female,Student,4.9
+Nestaway Hinjewadi,Hinjewadi,10702,Double,559,0,0,1,1,0,1,0,1,1,0,Any,Student,3.8
+StayAbode Aundh,Aundh,12021,Triple,682,0,0,1,1,0,0,0,1,0,0,Male,Working,3.5
+StayAbode Pimpri,Pimpri,9154,Triple,391,1,1,0,0,1,1,0,0,1,1,Male,Student,4.0
+Grexter Kothrud,Kothrud,10994,Triple,683,1,1,0,1,1,0,0,1,1,0,Male,Working,3.6
+UrbanNest Hinjewadi,Hinjewadi,11661,Double,547,1,1,0,1,0,0,0,0,0,0,Any,Working,3.6
+HelloWorld Living Kothrud,Kothrud,11601,Triple,564,0,1,1,1,0,1,0,1,1,1,Female,Student,3.9
+StayAbode Aundh,Aundh,11414,Triple,380,0,0,1,1,0,0,0,1,1,0,Any,Student,3.9
+ComfortStay Pimpri,Pimpri,10840,Single,369,0,0,1,0,0,0,1,0,1,0,Any,Student,3.6
+OYO Life Wakad,Wakad,13618,Single,362,1,0,1,1,1,0,0,0,0,0,Any,Working,4.4
+Nestaway Shivaji Nagar,Shivaji Nagar,12949,Triple,658,0,1,1,0,1,1,0,0,0,0,Any,Student,4.2
+Grexter Viman Nagar,Viman Nagar,18676,Single,388,1,1,1,1,1,1,1,1,1,0,Male,Working,4.9
+Stanza Living Pimpri,Pimpri,9291,Triple,364,1,0,1,1,0,1,1,0,1,0,Male,Student,3.9
+Nestaway Shivaji Nagar,Shivaji Nagar,13827,Double,378,1,1,0,1,0,1,1,0,1,0,Any,Student,3.7
+SmartLiving Kothrud,Kothrud,12287,Single,624,0,0,0,0,0,0,0,1,1,0,Male,Student,4.0
+Zolo Stays Wakad,Wakad,10949,Triple,368,1,1,0,0,1,1,0,0,1,0,Any,Working,4.7
+ComfortStay Aundh,Aundh,13517,Double,602,1,0,1,1,1,1,0,0,0,1,Female,Student,3.8
+Zolo Stays Hadapsar,Hadapsar,10527,Triple,637,1,1,1,1,1,0,0,0,1,0,Male,Working,4.2
+Colive Baner,Baner,15992,Single,606,1,0,1,0,0,1,0,1,1,0,Male,Working,4.9
+ComfortStay Magarpatta,Magarpatta,17990,Single,455,1,1,1,0,1,0,1,0,1,0,Male,Working,4.2
+Grexter Magarpatta,Magarpatta,15536,Single,486,0,1,0,0,0,1,1,1,1,1,Any,Working,3.6
+Colive Viman Nagar,Viman Nagar,14932,Double,449,1,0,1,0,1,0,0,0,0,0,Female,Student,3.7
+HelloWorld Living Aundh,Aundh,14387,Single,655,0,0,1,0,1,1,1,1,0,1,Female,Student,4.8
+SmartLiving Hinjewadi,Hinjewadi,11061,Triple,467,1,1,1,0,1,0,0,0,1,0,Female,Student,5.0
+Nestaway Hinjewadi,Hinjewadi,13314,Single,397,0,1,1,1,0,0,0,0,1,0,Female,Student,3.7
+OYO Life Wakad,Wakad,9400,Triple,495,0,0,1,1,1,1,0,0,0,0,Male,Working,4.4
+Stanza Living Kothrud,Kothrud,12133,Triple,686,0,1,1,1,1,0,1,1,1,0,Any,Working,5.0
+Stanza Living Kothrud,Kothrud,12669,Double,517,1,0,1,1,0,1,1,0,1,1,Any,Student,4.5
+Stanza Living Viman Nagar,Viman Nagar,18480,Single,583,1,1,1,0,0,1,1,1,0,0,Any,Working,4.9
+YourSpace Wakad,Wakad,13274,Double,610,1,1,1,1,1,1,0,0,1,1,Male,Student,3.9
+SmartLiving Pimpri,Pimpri,8434,Triple,402,0,0,1,0,0,1,0,0,1,1,Female,Working,5.0
+Nestaway Wakad,Wakad,14415,Single,589,0,1,1,0,0,1,0,0,1,1,Any,Working,4.8
+LivStation Hadapsar,Hadapsar,8509,Triple,653,0,0,1,1,1,0,1,0,1,0,Male,Working,3.5
+EliteStay Shivaji Nagar,Shivaji Nagar,9946,Triple,633,0,0,0,1,0,1,1,0,1,0,Male,Student,4.8
+HelloWorld Living Kothrud,Kothrud,13215,Double,611,0,1,1,0,0,0,1,0,1,1,Any,Student,4.0
+StayAbode Wakad,Wakad,13257,Single,460,0,1,0,0,1,1,1,0,1,0,Female,Working,4.3
+LivStation Hinjewadi,Hinjewadi,9275,Triple,647,0,0,1,0,1,1,1,0,0,1,Female,Student,3.7
+SmartLiving Hinjewadi,Hinjewadi,10250,Double,501,0,0,0,1,1,1,0,0,1,1,Female,Working,3.5
+Stanza Living Pimpri,Pimpri,7607,Triple,428,0,0,0,1,1,1,1,0,0,1,Any,Student,4.8
+OYO Life Baner,Baner,13352,Double,615,1,0,0,0,1,0,0,0,0,1,Female,Working,4.6
+LivStation Kothrud,Kothrud,15205,Single,526,0,1,1,1,0,0,0,0,0,1,Male,Student,4.6
+SmartLiving Viman Nagar,Viman Nagar,14252,Triple,617,0,1,1,0,1,1,0,1,1,1,Any,Student,4.5
+ComfortStay Viman Nagar,Viman Nagar,14869,Triple,541,0,1,1,1,0,1,0,0,1,0,Any,Student,4.3
+Colive Hadapsar,Hadapsar,10738,Triple,641,1,1,1,1,1,0,0,1,0,0,Male,Working,4.9
+YourSpace Wakad,Wakad,12844,Single,519,0,0,1,1,1,0,0,0,1,0,Male,Student,3.8
+StayAbode Shivaji Nagar,Shivaji Nagar,13152,Single,648,0,0,0,0,0,1,1,0,1,0,Male,Student,3.9
+CoHo Hadapsar,Hadapsar,9681,Triple,401,1,1,0,1,0,0,0,0,1,1,Any,Student,4.5
+SmartLiving Magarpatta,Magarpatta,14934,Double,463,1,0,1,1,0,1,1,0,0,1,Male,Working,4.8
+Zolo Stays Pimpri,Pimpri,9002,Double,428,1,0,0,0,1,1,0,1,1,1,Male,Student,4.1
+CoHo Shivaji Nagar,Shivaji Nagar,11529,Triple,531,1,0,1,1,1,1,0,1,0,1,Male,Working,4.6
+OYO Life Pimpri,Pimpri,13643,Single,441,1,1,1,1,1,0,0,1,1,0,Female,Student,4.5
+Nestaway Hadapsar,Hadapsar,11587,Single,683,1,0,0,1,1,1,1,1,1,0,Any,Student,4.3
+Colive Viman Nagar,Viman Nagar,16117,Single,395,0,0,1,1,1,1,0,1,0,1,Any,Working,4.4
+Nestaway Hinjewadi,Hinjewadi,10893,Triple,689,1,1,1,0,1,1,1,1,0,0,Female,Student,4.3
+YourSpace Kothrud,Kothrud,11289,Triple,494,0,1,1,0,1,1,0,0,1,0,Female,Working,3.7
+YourSpace Hinjewadi,Hinjewadi,9213,Triple,520,1,0,0,1,0,0,1,1,1,1,Any,Working,4.6
+Colive Magarpatta,Magarpatta,12036,Triple,476,1,0,0,0,1,0,0,1,1,0,Female,Student,4.9
+LivStation Hadapsar,Hadapsar,12719,Single,490,0,1,1,0,0,1,0,0,1,1,Any,Student,4.5
+Colive Hadapsar,Hadapsar,12897,Single,364,1,1,0,0,0,0,1,1,0,0,Male,Student,4.6
+Nestaway Baner,Baner,12935,Triple,451,0,1,0,1,0,0,0,0,0,1,Male,Student,4.3
+Stanza Living Pimpri,Pimpri,9858,Double,624,0,1,0,0,0,0,1,0,0,0,Female,Working,4.7
+Grexter Aundh,Aundh,15529,Single,441,1,1,0,0,0,0,0,0,0,1,Any,Student,4.0
+YourSpace Aundh,Aundh,15104,Single,658,1,0,1,0,1,0,0,0,0,1,Male,Working,4.4
+Grexter Wakad,Wakad,10400,Triple,516,1,0,1,1,1,1,0,0,1,0,Male,Working,3.8
+LivStation Kothrud,Kothrud,15186,Single,624,1,1,1,1,1,1,0,1,1,1,Male,Working,4.6
+SmartLiving Magarpatta,Magarpatta,14876,Double,501,1,1,0,0,0,0,0,1,0,0,Any,Student,4.4
+Zolo Stays Kothrud,Kothrud,12607,Double,690,0,1,0,1,1,1,1,0,0,0,Male,Student,4.0
+Colive Shivaji Nagar,Shivaji Nagar,16386,Single,504,1,1,1,0,1,1,1,1,1,0,Female,Student,3.9
+CoHo Viman Nagar,Viman Nagar,17550,Single,525,1,1,1,0,1,0,0,0,1,1,Female,Student,4.5
+Colive Hinjewadi,Hinjewadi,12350,Double,488,0,1,1,1,1,1,1,0,1,1,Any,Student,4.9
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,13685,Double,620,1,1,0,1,0,0,0,0,1,1,Any,Student,4.2
+EliteStay Hinjewadi,Hinjewadi,7870,Triple,431,0,0,0,1,1,1,1,0,0,1,Male,Working,4.1
+Zolo Stays Baner,Baner,14175,Double,562,0,1,0,1,1,1,0,0,0,1,Male,Student,4.0
+OYO Life Baner,Baner,14091,Triple,552,1,1,1,1,0,1,1,0,1,1,Any,Student,4.8
+Nestaway Pimpri,Pimpri,13746,Single,648,1,1,1,1,1,1,1,0,0,0,Male,Student,4.3
+EliteStay Viman Nagar,Viman Nagar,14215,Triple,391,1,1,0,0,0,1,1,0,1,1,Female,Working,4.3
+YourSpace Magarpatta,Magarpatta,13766,Triple,440,0,1,0,1,1,1,0,1,1,0,Male,Working,4.2
+HelloWorld Living Kothrud,Kothrud,13104,Single,495,0,1,0,0,1,1,1,0,1,0,Female,Student,3.5
+Nestaway Viman Nagar,Viman Nagar,13986,Triple,514,1,1,0,0,1,0,1,0,0,0,Male,Student,4.4
+LivStation Viman Nagar,Viman Nagar,13862,Double,551,1,0,0,0,1,1,0,1,1,1,Male,Working,4.6
+ComfortStay Wakad,Wakad,14798,Single,670,0,1,1,1,0,1,0,0,1,0,Female,Student,4.2
+LivStation Hinjewadi,Hinjewadi,12035,Single,454,0,0,1,1,1,0,0,0,1,0,Female,Student,4.9
+Grexter Shivaji Nagar,Shivaji Nagar,13148,Single,363,0,0,0,1,1,0,0,1,0,1,Male,Student,3.9
+OYO Life Baner,Baner,17225,Single,378,1,1,1,1,1,1,1,0,1,1,Any,Working,4.4
+LivStation Hadapsar,Hadapsar,8842,Double,383,0,0,0,0,0,1,1,0,1,1,Female,Working,4.3
+EliteStay Hadapsar,Hadapsar,13539,Single,372,1,1,1,0,0,0,0,1,0,0,Male,Student,3.7
+EliteStay Wakad,Wakad,13392,Single,359,1,0,1,1,1,0,0,0,1,0,Male,Student,4.0
+YourSpace Aundh,Aundh,12131,Double,403,1,0,0,0,1,1,0,1,0,0,Female,Student,4.4
+Stanza Living Viman Nagar,Viman Nagar,14849,Triple,381,1,1,1,0,1,1,1,1,1,1,Female,Working,4.5
+UrbanNest Aundh,Aundh,11965,Double,488,0,0,0,1,1,1,1,0,1,0,Male,Student,5.0
+Colive Aundh,Aundh,14853,Double,417,0,1,1,1,1,1,0,1,0,0,Male,Student,4.1
+UrbanNest Baner,Baner,13976,Double,502,0,1,0,0,0,0,0,0,1,0,Any,Working,4.1
+Stanza Living Pimpri,Pimpri,9028,Double,543,0,0,0,1,1,0,1,0,0,0,Male,Working,3.9
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,14029,Single,517,0,0,1,1,1,1,0,0,1,1,Female,Working,3.5
+ComfortStay Kothrud,Kothrud,13395,Single,512,1,0,1,0,1,1,0,0,1,1,Female,Student,4.2
+Grexter Hinjewadi,Hinjewadi,13481,Single,477,1,1,0,1,1,0,1,0,1,1,Female,Working,4.2
+SmartLiving Hinjewadi,Hinjewadi,9020,Triple,699,0,0,1,0,1,0,1,0,1,0,Male,Working,5.0
+EliteStay Baner,Baner,12369,Triple,443,0,0,1,0,1,1,1,0,1,1,Any,Student,4.8
+Grexter Baner,Baner,11413,Triple,682,0,0,0,1,1,0,0,1,1,1,Any,Working,3.7
+Grexter Pimpri,Pimpri,7516,Triple,550,0,0,0,1,1,0,1,1,1,1,Male,Working,4.5
+Stanza Living Baner,Baner,11923,Triple,558,1,0,0,1,1,1,0,1,0,0,Any,Working,3.6
+SmartLiving Baner,Baner,12788,Double,681,1,0,0,0,0,1,0,0,0,1,Any,Working,3.9
+HelloWorld Living Hadapsar,Hadapsar,9363,Double,598,1,0,0,1,0,0,0,1,1,1,Female,Working,4.2
+Stanza Living Shivaji Nagar,Shivaji Nagar,11872,Double,662,1,0,0,1,1,1,0,1,0,1,Any,Student,4.1
+YourSpace Shivaji Nagar,Shivaji Nagar,13281,Double,559,1,0,1,0,0,0,1,0,1,1,Any,Student,4.2
+LivStation Magarpatta,Magarpatta,14082,Single,698,0,0,0,0,0,0,0,0,0,0,Any,Student,4.8
+UrbanNest Hadapsar,Hadapsar,9278,Double,358,1,0,0,0,1,0,0,1,1,0,Male,Working,3.6
+EliteStay Baner,Baner,16420,Single,649,1,1,0,1,0,0,0,0,1,0,Female,Working,4.1
+SmartLiving Baner,Baner,12951,Triple,443,1,0,1,1,1,1,0,0,1,0,Male,Student,4.5
+Zolo Stays Aundh,Aundh,15151,Single,363,0,1,0,1,1,1,0,0,0,1,Male,Student,4.2
+Stanza Living Pimpri,Pimpri,9788,Single,363,0,0,0,0,0,0,1,1,1,1,Female,Student,4.1
+CoHo Shivaji Nagar,Shivaji Nagar,12150,Triple,632,1,0,1,1,1,0,1,0,0,0,Female,Student,4.3
+Zolo Stays Pimpri,Pimpri,9235,Triple,695,1,1,0,0,1,0,0,1,1,0,Male,Student,4.0
+EliteStay Baner,Baner,14025,Triple,615,0,1,1,1,0,1,0,1,0,0,Male,Student,3.6
+Colive Baner,Baner,15093,Single,590,0,0,1,1,0,0,1,0,1,0,Female,Working,4.0
+Colive Hadapsar,Hadapsar,10752,Double,505,1,1,0,0,0,1,0,1,1,1,Female,Student,4.9
+ComfortStay Wakad,Wakad,9873,Triple,441,0,0,1,0,1,1,1,0,0,0,Any,Student,4.7
+Stanza Living Pimpri,Pimpri,10373,Double,676,1,0,1,1,1,0,1,1,0,0,Female,Working,4.3
+Grexter Hadapsar,Hadapsar,10268,Triple,480,1,1,1,0,0,0,0,0,0,0,Any,Student,4.2
+YourSpace Baner,Baner,12852,Double,432,1,0,0,0,1,1,1,1,0,0,Male,Working,4.9
+YourSpace Viman Nagar,Viman Nagar,15368,Double,375,1,0,1,0,0,1,0,1,1,0,Female,Working,4.2
+ComfortStay Hinjewadi,Hinjewadi,11552,Single,648,1,0,0,1,0,1,1,1,1,1,Any,Student,4.7
+Zolo Stays Magarpatta,Magarpatta,14224,Triple,417,1,1,0,1,1,1,1,1,1,1,Male,Student,4.0
+Nestaway Baner,Baner,12711,Double,376,0,0,0,0,1,0,0,0,1,1,Male,Working,4.3
+EliteStay Hadapsar,Hadapsar,9067,Triple,487,0,1,0,0,0,0,1,1,1,0,Female,Working,4.9
+LivStation Hinjewadi,Hinjewadi,9481,Double,372,0,0,0,0,0,0,1,1,0,1,Male,Working,4.8
+ComfortStay Shivaji Nagar,Shivaji Nagar,10121,Triple,439,0,0,0,0,1,0,0,0,0,0,Female,Working,5.0
+Grexter Shivaji Nagar,Shivaji Nagar,12923,Double,678,1,0,1,1,1,0,1,0,0,0,Any,Student,4.1
+YourSpace Shivaji Nagar,Shivaji Nagar,12010,Triple,463,1,0,1,1,0,0,1,1,1,1,Any,Student,3.6
+HelloWorld Living Hadapsar,Hadapsar,9677,Triple,423,0,1,0,1,1,0,0,0,0,1,Any,Working,3.9
+ComfortStay Pimpri,Pimpri,8697,Triple,563,1,1,0,0,0,0,0,1,0,1,Any,Working,3.6
+Grexter Wakad,Wakad,11937,Double,686,1,0,1,0,1,1,1,1,1,0,Female,Student,3.6
+LivStation Kothrud,Kothrud,12882,Single,507,0,0,1,0,1,0,0,1,0,0,Male,Student,4.9
+Grexter Kothrud,Kothrud,10256,Triple,583,1,0,1,0,1,1,1,0,0,0,Any,Student,4.5
+YourSpace Wakad,Wakad,11743,Double,480,0,1,0,1,1,1,0,0,0,1,Any,Student,4.2
+ComfortStay Kothrud,Kothrud,13291,Double,541,0,1,1,0,0,1,0,0,1,1,Female,Working,4.5
+HelloWorld Living Kothrud,Kothrud,14338,Single,423,1,1,0,1,0,1,0,0,1,0,Male,Working,3.9
+YourSpace Shivaji Nagar,Shivaji Nagar,10486,Triple,596,0,0,0,0,1,0,1,1,0,1,Male,Student,3.7
+OYO Life Baner,Baner,12905,Double,392,1,0,0,0,0,0,1,0,0,1,Any,Student,4.0
+Grexter Kothrud,Kothrud,12184,Triple,499,1,1,1,0,1,0,1,0,1,0,Any,Working,3.9
+UrbanNest Kothrud,Kothrud,10488,Triple,351,0,1,0,1,1,0,0,0,0,0,Female,Working,3.9
+Nestaway Magarpatta,Magarpatta,15204,Single,403,0,0,0,1,0,1,1,0,0,0,Female,Working,4.8
+EliteStay Wakad,Wakad,10390,Double,525,1,0,0,0,1,1,0,0,1,1,Female,Working,4.3
+EliteStay Aundh,Aundh,11348,Triple,617,1,0,0,0,1,1,0,0,0,1,Any,Working,4.1
+YourSpace Aundh,Aundh,11589,Triple,660,1,0,1,0,1,1,0,0,0,0,Male,Working,4.3
+CoHo Hinjewadi,Hinjewadi,13631,Single,674,1,1,0,1,0,0,0,1,1,1,Female,Working,4.1
+Zolo Stays Hinjewadi,Hinjewadi,12085,Single,640,1,0,0,1,0,1,0,1,1,0,Male,Working,3.8
+YourSpace Kothrud,Kothrud,9357,Triple,590,0,0,0,0,0,0,1,0,0,1,Female,Working,4.5
+LivStation Viman Nagar,Viman Nagar,11781,Triple,471,0,0,0,0,1,0,0,0,0,0,Any,Working,4.4
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,14444,Single,683,0,0,1,0,0,1,0,1,0,1,Male,Student,3.6
+HelloWorld Living Kothrud,Kothrud,13324,Single,508,1,0,1,0,0,1,0,0,0,0,Any,Student,4.4
+Stanza Living Kothrud,Kothrud,15363,Single,436,1,1,1,1,0,0,0,0,0,1,Male,Working,3.9
+ComfortStay Wakad,Wakad,12992,Single,500,1,0,1,0,0,1,0,1,0,1,Female,Working,4.8
+OYO Life Pimpri,Pimpri,10429,Single,470,0,0,0,0,1,0,1,0,1,1,Male,Working,4.3
+ComfortStay Magarpatta,Magarpatta,16716,Single,597,1,0,1,1,1,0,0,1,1,1,Any,Working,4.4
+CoHo Baner,Baner,14190,Double,591,1,0,1,0,0,1,0,1,0,1,Female,Student,4.4
+HelloWorld Living Kothrud,Kothrud,11614,Double,552,1,0,0,1,0,1,0,0,0,0,Male,Working,4.2
+SmartLiving Aundh,Aundh,13574,Triple,369,1,1,1,1,0,0,0,0,0,1,Female,Student,3.8
+CoHo Viman Nagar,Viman Nagar,16453,Single,577,1,0,1,1,1,1,0,0,0,1,Male,Student,3.9
+Colive Shivaji Nagar,Shivaji Nagar,13836,Single,638,0,0,1,1,1,1,1,1,1,0,Any,Student,4.1
+SmartLiving Pimpri,Pimpri,12809,Single,417,1,1,1,1,0,1,1,1,1,0,Any,Working,4.6
+CoHo Baner,Baner,15112,Single,557,1,0,0,1,0,0,0,0,0,1,Female,Student,4.3
+ComfortStay Kothrud,Kothrud,10437,Double,485,0,0,0,0,1,1,0,1,0,0,Any,Working,5.0
+Colive Aundh,Aundh,12752,Triple,621,1,0,1,1,0,0,0,0,1,0,Any,Working,4.8
+YourSpace Shivaji Nagar,Shivaji Nagar,10911,Triple,378,1,0,0,0,1,0,1,1,1,0,Male,Student,5.0
+CoHo Shivaji Nagar,Shivaji Nagar,15361,Single,559,1,1,0,1,0,0,0,0,0,1,Female,Student,4.6
+Stanza Living Baner,Baner,16905,Single,586,0,1,1,1,0,0,1,0,0,0,Male,Student,4.3
+Colive Magarpatta,Magarpatta,16520,Single,449,0,1,0,1,0,1,0,0,1,1,Male,Student,4.5
+OYO Life Pimpri,Pimpri,9259,Double,444,0,0,1,0,0,1,0,0,0,1,Male,Student,4.5
+OYO Life Hadapsar,Hadapsar,7707,Triple,671,1,0,0,0,0,1,0,1,0,0,Female,Working,4.1
+Colive Pimpri,Pimpri,10568,Triple,480,1,1,1,1,1,0,0,0,0,0,Any,Student,4.4
+ComfortStay Pimpri,Pimpri,8748,Triple,679,0,1,0,1,0,0,0,1,1,1,Male,Student,3.9
+ComfortStay Baner,Baner,10583,Triple,510,0,0,0,0,0,0,1,1,1,0,Male,Student,3.6
+EliteStay Hadapsar,Hadapsar,11406,Double,358,1,1,0,1,0,0,1,1,1,0,Male,Student,4.1
+Nestaway Viman Nagar,Viman Nagar,14344,Double,655,1,0,0,0,0,1,1,1,0,0,Any,Student,3.5
+CoHo Viman Nagar,Viman Nagar,17987,Single,435,1,1,1,1,0,0,0,0,0,0,Any,Working,4.1
+StayAbode Wakad,Wakad,9423,Triple,405,1,0,0,1,0,0,1,1,1,1,Female,Student,4.0
+LivStation Wakad,Wakad,13387,Single,513,1,0,1,1,0,1,1,0,1,0,Male,Student,4.1
+CoHo Kothrud,Kothrud,13026,Double,618,0,1,1,0,0,1,1,1,1,1,Any,Student,4.6
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,13129,Triple,378,0,1,1,1,0,0,0,0,0,0,Female,Student,3.9
+Stanza Living Aundh,Aundh,12637,Double,547,0,0,1,0,0,0,1,0,0,0,Male,Working,3.5
+ComfortStay Pimpri,Pimpri,8214,Triple,382,1,0,0,1,1,0,0,0,0,0,Female,Student,4.9
+OYO Life Shivaji Nagar,Shivaji Nagar,12523,Triple,583,1,1,1,0,0,1,0,1,0,1,Male,Student,3.7
+StayAbode Aundh,Aundh,14182,Triple,574,1,1,1,1,1,0,0,1,0,0,Male,Working,4.0
+Grexter Wakad,Wakad,11582,Single,403,0,0,0,0,0,1,1,0,1,0,Male,Student,4.8
+HelloWorld Living Hinjewadi,Hinjewadi,10199,Triple,515,0,1,0,1,0,1,1,1,1,0,Male,Student,4.5
+Nestaway Hinjewadi,Hinjewadi,14024,Single,392,1,1,1,0,1,1,0,1,0,1,Female,Working,4.7
+StayAbode Hinjewadi,Hinjewadi,11270,Double,645,1,1,0,0,1,0,1,1,0,0,Any,Student,3.7
+CoHo Magarpatta,Magarpatta,12880,Triple,534,0,1,0,0,0,0,1,0,1,1,Female,Working,5.0
+CoHo Magarpatta,Magarpatta,14540,Double,352,1,1,0,0,0,1,1,1,0,0,Male,Working,4.8
+Nestaway Wakad,Wakad,11391,Double,380,1,0,1,1,1,1,0,1,0,1,Male,Working,4.6
+HelloWorld Living Wakad,Wakad,10972,Triple,384,0,1,1,1,0,0,0,0,0,1,Any,Student,5.0
+ComfortStay Aundh,Aundh,10742,Triple,437,1,0,0,0,0,0,0,0,1,0,Male,Student,4.1
+Colive Pimpri,Pimpri,8537,Double,584,0,0,0,0,0,0,0,1,0,0,Male,Working,3.7
+OYO Life Hadapsar,Hadapsar,10666,Triple,460,1,1,1,0,0,0,1,0,0,1,Male,Working,4.7
+ComfortStay Aundh,Aundh,12528,Triple,556,0,1,1,0,1,0,0,0,0,0,Any,Working,4.5
+Nestaway Shivaji Nagar,Shivaji Nagar,13110,Single,506,0,0,0,1,1,0,1,1,1,1,Female,Working,3.8
+SmartLiving Magarpatta,Magarpatta,14338,Triple,520,0,1,1,0,1,0,1,1,0,1,Female,Working,4.8
+Nestaway Pimpri,Pimpri,9209,Triple,503,1,1,0,1,0,0,0,1,1,0,Male,Student,3.6
+Grexter Aundh,Aundh,12796,Double,426,0,0,1,0,0,0,0,0,0,0,Any,Working,3.8
+HelloWorld Living Hinjewadi,Hinjewadi,10360,Triple,613,0,1,1,1,1,1,0,0,0,0,Male,Student,4.5
+Colive Viman Nagar,Viman Nagar,16495,Single,598,1,0,1,1,0,1,1,0,1,0,Female,Working,4.6
+ComfortStay Wakad,Wakad,10075,Double,351,0,0,0,1,1,0,0,1,1,1,Any,Student,3.6
+HelloWorld Living Baner,Baner,15842,Single,487,0,1,0,1,1,1,0,1,1,1,Male,Working,4.2
+Colive Hinjewadi,Hinjewadi,10455,Double,675,0,0,1,0,1,1,0,1,0,0,Any,Working,4.4
+Grexter Hinjewadi,Hinjewadi,9997,Double,361,0,0,0,0,0,1,0,1,1,0,Any,Student,4.2
+CoHo Magarpatta,Magarpatta,14004,Double,425,1,0,0,1,0,1,0,0,0,0,Any,Working,3.7
+OYO Life Shivaji Nagar,Shivaji Nagar,14195,Single,435,1,0,1,0,0,1,0,0,1,1,Any,Student,3.7
+Zolo Stays Baner,Baner,12527,Double,689,0,0,0,0,1,0,1,0,0,0,Female,Student,4.2
+Grexter Wakad,Wakad,13846,Single,620,1,1,0,0,0,0,1,1,1,1,Female,Student,4.9
+Grexter Kothrud,Kothrud,14125,Single,685,1,1,0,1,1,1,0,0,0,0,Female,Working,4.1
+SmartLiving Baner,Baner,15199,Double,670,0,1,1,0,1,0,0,1,1,0,Any,Working,5.0
+Stanza Living Shivaji Nagar,Shivaji Nagar,12044,Triple,363,1,1,0,1,0,0,1,1,1,1,Female,Working,4.7
+LivStation Magarpatta,Magarpatta,17821,Single,461,1,1,1,0,1,0,0,1,0,1,Female,Student,4.4
+Nestaway Hadapsar,Hadapsar,11411,Single,553,1,0,0,1,1,0,0,1,0,0,Female,Working,5.0
+Grexter Aundh,Aundh,13136,Double,410,0,0,1,0,0,0,1,0,1,1,Any,Working,4.1
+Stanza Living Kothrud,Kothrud,14318,Single,481,1,1,0,0,1,0,0,0,0,0,Any,Working,3.7
+LivStation Hinjewadi,Hinjewadi,11025,Triple,444,1,1,1,1,0,1,1,0,0,0,Male,Student,4.9
+Grexter Hadapsar,Hadapsar,9585,Double,660,0,0,0,1,0,0,0,0,1,1,Any,Working,4.9
+ComfortStay Kothrud,Kothrud,11882,Single,661,0,0,0,1,0,0,0,1,0,0,Male,Working,3.9
+CoHo Magarpatta,Magarpatta,15885,Double,565,0,1,1,0,1,0,1,1,1,0,Male,Student,4.5
+Zolo Stays Viman Nagar,Viman Nagar,12947,Triple,668,0,0,1,0,0,1,0,1,1,0,Male,Working,4.8
+Nestaway Baner,Baner,12611,Triple,588,1,1,0,0,1,1,0,1,1,1,Male,Working,4.9
+EliteStay Viman Nagar,Viman Nagar,13250,Double,435,0,0,0,0,0,1,0,0,1,0,Any,Working,3.5
+SmartLiving Pimpri,Pimpri,9568,Single,435,0,0,0,0,1,1,1,1,0,0,Female,Student,4.6
+Nestaway Wakad,Wakad,12446,Double,529,0,1,1,0,0,0,0,0,0,0,Any,Working,4.7
+CoHo Wakad,Wakad,12624,Double,477,1,1,0,1,1,1,1,0,1,0,Male,Working,4.2
+YourSpace Magarpatta,Magarpatta,12126,Triple,531,1,0,0,1,0,1,1,0,1,0,Female,Working,4.2
+Stanza Living Magarpatta,Magarpatta,17152,Single,614,0,1,1,1,0,1,0,0,0,0,Any,Working,4.6
+Grexter Viman Nagar,Viman Nagar,13384,Double,369,0,0,0,1,0,1,1,0,1,0,Female,Working,3.6
+ComfortStay Aundh,Aundh,16608,Single,455,0,1,1,1,0,0,1,1,1,1,Male,Working,4.6
+UrbanNest Aundh,Aundh,16681,Single,431,1,1,1,0,0,1,0,0,0,0,Female,Student,4.8
+Colive Hinjewadi,Hinjewadi,10319,Double,629,1,0,0,0,0,0,1,1,0,0,Male,Working,4.6
+HelloWorld Living Aundh,Aundh,13053,Triple,418,0,1,1,1,0,1,1,0,0,1,Female,Student,4.1
+StayAbode Wakad,Wakad,14418,Single,522,0,1,1,1,0,0,1,0,0,1,Any,Working,4.2
+UrbanNest Aundh,Aundh,15197,Single,465,0,1,0,1,1,1,0,1,1,0,Male,Working,4.3
+YourSpace Viman Nagar,Viman Nagar,11972,Triple,429,0,0,0,0,1,0,0,0,1,1,Female,Student,4.3
+SmartLiving Wakad,Wakad,12290,Double,534,0,1,0,1,0,1,0,0,0,1,Any,Working,4.4
+Nestaway Wakad,Wakad,10971,Double,692,0,0,1,0,0,1,0,1,0,0,Male,Working,4.3
+Nestaway Viman Nagar,Viman Nagar,17039,Single,614,0,1,0,1,0,0,1,1,0,0,Any,Working,4.4
+YourSpace Pimpri,Pimpri,8468,Triple,483,0,0,1,1,0,0,0,1,1,0,Any,Student,3.9
+YourSpace Hadapsar,Hadapsar,10101,Double,601,0,0,1,0,1,0,0,0,0,1,Any,Working,4.6
+OYO Life Aundh,Aundh,15390,Double,426,1,1,1,0,1,0,1,1,1,0,Male,Student,3.8
+YourSpace Aundh,Aundh,16774,Single,588,1,1,1,1,1,0,0,1,1,0,Any,Working,4.6
+Stanza Living Shivaji Nagar,Shivaji Nagar,14748,Single,484,1,0,1,1,0,1,1,1,1,1,Any,Working,4.5
+CoHo Hinjewadi,Hinjewadi,9455,Triple,564,0,0,1,1,0,0,1,0,1,0,Male,Student,4.6
+HelloWorld Living Viman Nagar,Viman Nagar,12414,Triple,660,1,0,0,1,0,0,0,0,0,1,Male,Working,3.9
+EliteStay Baner,Baner,16498,Single,378,1,1,0,0,1,1,1,0,1,0,Female,Student,3.9
+StayAbode Shivaji Nagar,Shivaji Nagar,10677,Triple,513,1,0,0,1,0,0,1,0,0,1,Male,Working,4.8
+LivStation Aundh,Aundh,14248,Single,608,1,0,0,1,1,1,1,0,0,0,Any,Student,4.4
+Zolo Stays Magarpatta,Magarpatta,12924,Double,690,0,0,0,1,0,0,0,1,1,1,Any,Working,4.2
+OYO Life Hadapsar,Hadapsar,10326,Double,528,0,0,1,1,0,0,0,1,0,1,Female,Student,3.7
+LivStation Viman Nagar,Viman Nagar,15287,Triple,492,1,1,1,1,0,0,1,0,0,0,Male,Student,4.3
+Zolo Stays Shivaji Nagar,Shivaji Nagar,14375,Single,546,0,1,0,1,0,1,1,0,1,1,Female,Working,4.8
+EliteStay Pimpri,Pimpri,10551,Triple,698,1,1,1,1,0,1,0,1,0,1,Male,Student,4.5
+LivStation Aundh,Aundh,13392,Triple,658,1,1,1,1,0,1,0,1,0,0,Any,Student,4.5
+LivStation Pimpri,Pimpri,7531,Triple,604,0,0,0,1,1,0,0,0,0,0,Female,Working,4.8
+Nestaway Aundh,Aundh,13394,Double,678,0,0,1,1,0,0,1,1,1,1,Any,Student,4.7
+YourSpace Hadapsar,Hadapsar,8113,Triple,693,1,0,0,0,0,0,0,0,1,0,Any,Student,4.6
+SmartLiving Aundh,Aundh,14790,Single,615,0,0,1,0,0,0,1,0,0,1,Male,Working,4.4
+SmartLiving Shivaji Nagar,Shivaji Nagar,14646,Single,421,1,1,0,0,0,0,0,0,1,1,Female,Working,4.6
+ComfortStay Aundh,Aundh,15345,Single,438,0,1,0,1,0,0,0,1,1,1,Female,Student,4.1
+Nestaway Viman Nagar,Viman Nagar,13627,Triple,688,1,1,0,0,1,1,0,1,0,0,Female,Student,4.4
+OYO Life Magarpatta,Magarpatta,12619,Triple,653,1,0,1,0,1,0,0,0,0,1,Any,Student,4.6
+YourSpace Aundh,Aundh,11931,Triple,493,1,0,1,1,1,1,1,1,0,0,Female,Student,4.2
+EliteStay Hinjewadi,Hinjewadi,9840,Double,436,0,0,0,1,0,1,1,1,0,1,Any,Working,4.7
+StayAbode Magarpatta,Magarpatta,14830,Double,686,0,1,0,1,0,0,0,1,0,1,Any,Student,4.9
+StayAbode Kothrud,Kothrud,12652,Double,519,1,1,0,1,1,1,0,0,0,1,Male,Working,3.5
+LivStation Magarpatta,Magarpatta,14347,Double,615,0,1,0,0,1,1,1,1,0,0,Female,Working,4.7
+Stanza Living Kothrud,Kothrud,11112,Double,409,1,0,0,0,1,0,1,1,0,1,Female,Working,4.7
+Zolo Stays Hinjewadi,Hinjewadi,10791,Double,693,0,1,0,0,1,0,1,0,1,0,Male,Working,3.8
+UrbanNest Kothrud,Kothrud,13187,Double,362,1,1,1,0,0,0,1,1,1,1,Any,Working,4.7
+Nestaway Pimpri,Pimpri,13287,Single,372,0,1,1,1,0,0,1,0,0,0,Female,Working,3.8
+HelloWorld Living Hinjewadi,Hinjewadi,13496,Single,683,1,1,0,0,0,0,0,0,1,1,Any,Working,4.8
+EliteStay Baner,Baner,13147,Double,584,1,0,0,1,1,0,0,1,0,1,Female,Student,4.7
+Colive Aundh,Aundh,12203,Double,355,0,0,0,0,0,0,0,1,1,1,Male,Working,5.0
+ComfortStay Shivaji Nagar,Shivaji Nagar,14876,Double,368,1,1,1,0,1,1,1,1,1,0,Any,Working,3.5
+YourSpace Magarpatta,Magarpatta,12061,Triple,369,0,0,0,1,1,0,1,0,1,1,Female,Working,4.3
+CoHo Kothrud,Kothrud,10921,Double,437,0,0,0,1,1,1,1,0,1,1,Female,Working,4.7
+Zolo Stays Pimpri,Pimpri,10288,Double,649,1,1,0,0,1,0,0,1,1,1,Male,Student,4.0
+UrbanNest Hinjewadi,Hinjewadi,10629,Triple,637,0,1,1,1,1,1,1,0,1,1,Male,Student,4.1
+Colive Kothrud,Kothrud,13402,Single,682,1,0,1,1,0,1,1,1,0,0,Male,Working,4.9
+OYO Life Kothrud,Kothrud,13701,Single,368,1,0,1,1,1,0,0,1,1,1,Female,Working,5.0
+CoHo Aundh,Aundh,12545,Double,468,0,0,1,0,0,0,0,1,1,1,Male,Student,4.4
+OYO Life Shivaji Nagar,Shivaji Nagar,12825,Double,668,0,0,1,1,1,1,1,1,1,0,Any,Working,4.5
+UrbanNest Hadapsar,Hadapsar,9370,Double,664,0,0,0,1,0,1,0,0,0,1,Any,Working,4.9
+HelloWorld Living Kothrud,Kothrud,12741,Single,457,1,0,0,0,1,0,1,1,1,1,Male,Student,4.1
+CoHo Baner,Baner,13672,Double,683,1,0,0,1,1,1,0,1,0,0,Male,Student,4.3
+ComfortStay Shivaji Nagar,Shivaji Nagar,13341,Double,485,0,1,0,1,1,1,0,1,0,1,Male,Working,5.0
+ComfortStay Wakad,Wakad,12028,Triple,617,1,1,1,1,1,1,1,1,0,0,Male,Student,4.4
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,10453,Triple,628,0,0,0,1,0,1,0,0,1,0,Female,Working,3.7
+CoHo Baner,Baner,13500,Triple,453,1,1,0,1,1,1,1,1,1,1,Male,Working,4.6
+ComfortStay Baner,Baner,16350,Single,377,0,1,1,0,1,0,0,0,1,0,Female,Working,3.9
+Grexter Hadapsar,Hadapsar,10689,Double,692,0,1,0,0,1,1,1,1,0,1,Female,Working,3.8
+HelloWorld Living Shivaji Nagar,Shivaji Nagar,10677,Triple,692,1,0,0,0,0,0,0,0,0,1,Male,Working,4.4
+CoHo Kothrud,Kothrud,12146,Double,522,1,0,1,0,0,1,1,1,1,0,Any,Student,4.5
+Zolo Stays Magarpatta,Magarpatta,14172,Triple,528,0,1,1,1,0,1,0,1,1,1,Male,Working,4.2
+ComfortStay Aundh,Aundh,14459,Single,470,0,0,1,0,1,1,1,0,1,0,Any,Working,4.3
+Nestaway Kothrud,Kothrud,12568,Single,618,1,0,0,0,0,0,1,1,1,0,Female,Student,4.7
+YourSpace Viman Nagar,Viman Nagar,16567,Single,391,1,1,0,0,1,0,0,0,1,0,Any,Student,4.3
+LivStation Pimpri,Pimpri,10030,Double,666,1,0,1,0,0,1,1,1,1,1,Female,Student,4.1
+Stanza Living Viman Nagar,Viman Nagar,16573,Single,521,1,0,1,1,0,1,1,1,0,1,Male,Student,4.2
+SmartLiving Aundh,Aundh,15365,Double,517,1,1,1,1,1,1,1,0,0,1,Any,Student,4.9
+StayAbode Wakad,Wakad,12958,Double,429,0,1,1,0,0,0,0,0,1,1,Any,Working,3.9
+Stanza Living Shivaji Nagar,Shivaji Nagar,10966,Triple,617,1,0,0,0,0,0,1,0,1,1,Any,Student,4.6
+LivStation Shivaji Nagar,Shivaji Nagar,15388,Single,467,0,1,1,0,1,0,0,0,1,0,Male,Working,3.8
+UrbanNest Aundh,Aundh,14356,Double,499,0,1,1,1,1,0,0,0,1,1,Female,Working,4.3
+LivStation Hinjewadi,Hinjewadi,9880,Triple,458,1,0,1,1,1,1,0,0,0,1,Any,Working,4.3
+Colive Hadapsar,Hadapsar,9147,Triple,457,0,1,0,0,1,1,1,1,0,0,Any,Working,4.1
+Colive Kothrud,Kothrud,11059,Triple,558,0,1,0,1,0,0,1,1,0,1,Male,Working,4.6
+UrbanNest Hadapsar,Hadapsar,12084,Double,409,1,1,1,1,0,0,1,0,1,1,Female,Working,4.4
+Stanza Living Magarpatta,Magarpatta,15769,Double,585,0,1,1,0,1,0,1,0,0,0,Female,Working,4.7
+LivStation Baner,Baner,14461,Single,624,1,0,0,1,0,0,0,0,1,0,Female,Working,3.8
+CoHo Hinjewadi,Hinjewadi,11900,Single,377,1,0,0,0,1,0,0,0,1,0,Female,Student,4.4
+EliteStay Baner,Baner,12584,Triple,467,0,1,0,0,1,1,0,1,0,0,Female,Student,4.5
+YourSpace Shivaji Nagar,Shivaji Nagar,12271,Double,529,1,0,0,0,0,0,0,0,1,0,Female,Working,4.2
+Colive Viman Nagar,Viman Nagar,14942,Triple,641,1,1,1,1,1,0,1,0,1,0,Female,Working,4.2
+Grexter Hinjewadi,Hinjewadi,13324,Single,637,0,1,1,0,1,1,0,0,1,1,Any,Working,4.0
+CoHo Hinjewadi,Hinjewadi,11216,Triple,531,1,1,1,0,1,1,1,0,1,0,Any,Student,4.3
+CoHo Viman Nagar,Viman Nagar,13437,Triple,456,0,0,1,0,0,1,1,0,1,0,Female,Working,3.7
+ComfortStay Aundh,Aundh,13955,Double,459,0,1,0,0,1,1,0,1,1,0,Male,Student,4.3
+UrbanNest Pimpri,Pimpri,8094,Triple,566,0,0,1,0,0,1,0,1,1,1,Female,Working,4.2
+Grexter Hinjewadi,Hinjewadi,11819,Double,363,0,1,1,0,1,0,0,1,0,0,Female,Working,4.5
+EliteStay Hadapsar,Hadapsar,8772,Triple,675,1,0,1,0,1,0,1,1,1,1,Male,Working,4.9
+ComfortStay Shivaji Nagar,Shivaji Nagar,12913,Double,523,0,1,0,1,1,1,1,1,0,1,Any,Working,4.4
+EliteStay Viman Nagar,Viman Nagar,16216,Single,498,0,0,1,1,0,1,1,1,0,1,Any,Student,4.3
+OYO Life Aundh,Aundh,15439,Double,643,1,1,1,1,1,1,0,0,0,1,Any,Student,4.1
+HelloWorld Living Baner,Baner,15090,Single,621,0,1,0,0,1,0,0,0,1,1,Female,Student,4.1
+Zolo Stays Viman Nagar,Viman Nagar,16802,Single,392,1,1,0,0,1,1,1,1,0,0,Any,Student,3.7
+ComfortStay Aundh,Aundh,16067,Single,438,0,1,1,0,1,1,1,1,0,1,Male,Working,4.1
+Zolo Stays Baner,Baner,15366,Single,695,0,0,1,1,0,1,0,1,1,0,Male,Working,4.3
+StayAbode Viman Nagar,Viman Nagar,15263,Double,415,0,1,0,0,0,0,1,0,1,1,Female,Student,4.7
+UrbanNest Hadapsar,Hadapsar,10409,Double,559,0,1,0,1,1,0,1,1,0,0,Male,Working,3.5
+Nestaway Hinjewadi,Hinjewadi,7835,Triple,487,0,0,0,0,0,1,0,1,0,1,Female,Student,3.6
+YourSpace Aundh,Aundh,11180,Triple,437,0,0,0,1,1,0,0,1,0,1,Any,Working,4.1
+OYO Life Hinjewadi,Hinjewadi,9880,Triple,658,0,1,0,0,0,1,0,1,1,1,Any,Working,3.6
+SmartLiving Viman Nagar,Viman Nagar,16069,Single,483,1,0,0,1,0,0,1,0,0,0,Male,Student,4.9
+Grexter Hadapsar,Hadapsar,10667,Double,625,0,1,0,0,1,0,0,1,0,0,Female,Student,4.7
+StayAbode Hadapsar,Hadapsar,7603,Triple,653,0,0,0,1,0,1,0,1,0,1,Female,Working,3.7
+LivStation Hadapsar,Hadapsar,9479,Double,641,1,0,0,1,0,1,1,1,0,1,Female,Working,4.2
+Grexter Pimpri,Pimpri,12245,Single,385,1,1,0,0,0,0,0,0,0,1,Male,Working,4.2
+OYO Life Baner,Baner,15533,Single,421,0,1,0,0,1,0,0,0,0,1,Female,Student,3.8
+Nestaway Viman Nagar,Viman Nagar,13174,Triple,501,1,0,1,0,0,0,0,1,0,1,Female,Student,4.7
+YourSpace Hinjewadi,Hinjewadi,9810,Double,588,0,0,0,1,0,1,1,0,1,1,Male,Student,3.8
+HelloWorld Living Aundh,Aundh,16093,Single,589,0,1,1,0,0,1,0,1,0,0,Female,Working,4.3
+EliteStay Viman Nagar,Viman Nagar,14076,Triple,431,0,1,1,0,1,0,0,1,0,0,Any,Student,4.4
+Colive Baner,Baner,15058,Double,440,0,1,1,0,1,1,1,1,0,1,Female,Student,4.0
+Zolo Stays Wakad,Wakad,12074,Single,424,0,0,1,0,1,1,1,0,0,0,Male,Working,4.7
+EliteStay Hadapsar,Hadapsar,8487,Triple,564,0,0,1,1,0,0,1,1,1,1,Any,Working,4.2
+Zolo Stays Pimpri,Pimpri,6592,Triple,443,0,0,0,0,1,1,1,1,1,0,Female,Student,4.7
+Zolo Stays Magarpatta,Magarpatta,13473,Triple,517,1,1,0,0,1,0,1,1,0,1,Male,Student,4.0
+Zolo Stays Kothrud,Kothrud,10942,Triple,635,0,1,0,0,1,1,1,1,1,1,Female,Student,3.8
+HelloWorld Living Aundh,Aundh,11526,Double,417,0,0,0,0,0,1,1,1,1,1,Female,Working,4.7
+OYO Life Magarpatta,Magarpatta,16177,Double,667,1,1,1,1,0,1,0,0,1,1,Female,Working,3.8
+Nestaway Shivaji Nagar,Shivaji Nagar,12199,Triple,401,1,0,1,1,0,0,0,0,0,1,Female,Student,4.6
+SmartLiving Kothrud,Kothrud,13061,Single,631,1,0,1,0,0,0,0,1,0,0,Male,Working,3.8
+HelloWorld Living Aundh,Aundh,13409,Double,686,0,0,1,0,0,0,0,1,0,0,Any,Working,4.1
+ComfortStay Hinjewadi,Hinjewadi,12933,Single,527,1,0,1,0,0,0,1,0,0,0,Any,Working,3.8
+Colive Pimpri,Pimpri,10328,Double,570,1,1,0,1,1,0,0,1,0,0,Male,Student,3.9
+Grexter Pimpri,Pimpri,10294,Double,671,1,1,0,0,1,1,0,1,0,1,Female,Student,4.1
+StayAbode Baner,Baner,12728,Triple,442,0,0,1,1,0,1,1,0,1,0,Any,Student,4.3
+Colive Hinjewadi,Hinjewadi,13794,Single,399,0,1,1,0,1,1,1,0,1,1,Any,Student,4.6
+Nestaway Baner,Baner,16674,Single,439,1,1,1,0,0,1,1,1,1,1,Male,Student,4.2
+EliteStay Wakad,Wakad,11871,Double,465,0,1,0,0,1,1,1,0,0,0,Any,Student,4.0
+HelloWorld Living Viman Nagar,Viman Nagar,15712,Double,477,1,0,1,1,1,0,1,1,1,0,Female,Student,4.2
+Stanza Living Viman Nagar,Viman Nagar,16629,Single,610,0,1,0,1,0,0,1,1,0,0,Female,Student,4.9
+SmartLiving Pimpri,Pimpri,13247,Single,578,1,1,1,1,1,1,0,0,0,1,Female,Student,4.4
+EliteStay Hadapsar,Hadapsar,7171,Triple,566,0,0,0,0,1,0,1,1,1,1,Male,Working,4.5
+Grexter Viman Nagar,Viman Nagar,13226,Double,393,0,0,0,0,0,1,0,1,1,1,Any,Working,5.0
+StayAbode Hinjewadi,Hinjewadi,10192,Double,468,1,0,0,1,0,0,0,0,0,0,Male,Student,4.8
+LivStation Pimpri,Pimpri,9089,Triple,466,1,1,0,1,0,0,1,1,0,0,Any,Working,4.7
+YourSpace Wakad,Wakad,12125,Double,458,0,1,0,1,0,1,0,0,1,0,Male,Working,3.6
+ComfortStay Shivaji Nagar,Shivaji Nagar,15833,Single,614,0,1,1,0,0,0,0,1,0,1,Female,Working,4.4
+SmartLiving Kothrud,Kothrud,12425,Single,566,0,0,0,1,0,1,0,1,1,1,Male,Working,4.0
+UrbanNest Hadapsar,Hadapsar,11735,Double,477,0,1,1,0,0,1,1,1,1,1,Female,Student,4.5
+EliteStay Shivaji Nagar,Shivaji Nagar,13045,Triple,506,1,1,1,1,0,1,0,1,0,1,Any,Working,4.4
+YourSpace Shivaji Nagar,Shivaji Nagar,16384,Single,587,1,1,1,0,0,1,0,0,1,1,Male,Student,4.7
+StayAbode Shivaji Nagar,Shivaji Nagar,14574,Double,665,1,1,1,0,0,1,1,1,1,0,Male,Student,4.8
+EliteStay Hadapsar,Hadapsar,9545,Triple,428,0,1,1,0,0,1,1,0,1,0,Female,Student,3.6
+Grexter Pimpri,Pimpri,7743,Triple,452,0,0,1,0,0,0,0,1,0,1,Male,Student,4.1
+HelloWorld Living Pimpri,Pimpri,7787,Triple,543,0,0,1,0,1,1,1,0,0,1,Male,Student,3.6
+CoHo Magarpatta,Magarpatta,14124,Triple,528,0,1,1,1,0,1,1,1,0,1,Male,Working,3.9
+YourSpace Hadapsar,Hadapsar,8965,Triple,621,1,0,1,0,1,1,1,1,0,1,Male,Working,4.4
+HelloWorld Living Magarpatta,Magarpatta,15184,Single,599,0,0,1,0,0,1,0,1,0,1,Male,Working,4.4
+StayAbode Baner,Baner,13833,Triple,622,0,1,1,1,0,1,0,1,1,1,Any,Student,4.2
+Zolo Stays Aundh,Aundh,14122,Single,390,1,0,0,0,1,0,0,1,1,1,Any,Working,4.7
+Colive Kothrud,Kothrud,11356,Triple,589,1,1,0,1,0,0,0,1,1,0,Male,Working,4.9
+LivStation Pimpri,Pimpri,12185,Single,460,1,1,0,1,0,1,1,1,1,1,Female,Working,4.3
+Nestaway Magarpatta,Magarpatta,15807,Double,687,1,1,1,0,1,1,0,0,0,0,Male,Student,4.2
+UrbanNest Wakad,Wakad,12125,Double,551,1,1,0,0,1,0,1,0,1,0,Any,Student,4.9
+Nestaway Hadapsar,Hadapsar,11770,Single,629,0,0,1,1,0,1,0,1,0,0,Any,Working,4.2
+LivStation Kothrud,Kothrud,10902,Triple,699,1,1,0,1,0,1,0,1,1,1,Male,Working,4.2
+YourSpace Viman Nagar,Viman Nagar,17182,Single,386,0,1,1,0,1,0,0,0,1,0,Female,Student,4.2
+SmartLiving Shivaji Nagar,Shivaji Nagar,12755,Double,616,0,0,1,1,1,0,0,1,1,0,Any,Student,4.1
+CoHo Pimpri,Pimpri,9743,Double,639,0,0,1,1,1,1,0,1,0,1,Any,Student,4.6
+Zolo Stays Hadapsar,Hadapsar,10267,Triple,631,0,1,1,0,0,0,0,1,1,0,Any,Student,4.0
+CoHo Baner,Baner,15362,Double,392,0,1,1,0,0,1,0,0,1,1,Any,Working,3.8
+YourSpace Hinjewadi,Hinjewadi,9740,Triple,501,1,0,1,0,1,0,1,0,0,0,Female,Working,4.2
+EliteStay Viman Nagar,Viman Nagar,13218,Double,522,0,0,0,0,1,1,0,0,1,1,Male,Working,4.5
+HelloWorld Living Baner,Baner,12131,Double,592,0,0,0,0,0,0,1,1,1,1,Any,Student,3.8
+SmartLiving Hadapsar,Hadapsar,8394,Triple,531,0,0,1,1,1,0,1,0,1,0,Female,Working,4.6
+SmartLiving Wakad,Wakad,10082,Triple,529,1,0,1,1,0,1,1,1,1,0,Male,Student,4.4
+SmartLiving Kothrud,Kothrud,13612,Single,531,0,1,0,1,1,0,1,1,0,0,Female,Student,3.9
+LivStation Shivaji Nagar,Shivaji Nagar,12190,Triple,427,0,1,0,1,0,0,0,1,0,0,Female,Student,4.5
+UrbanNest Viman Nagar,Viman Nagar,14123,Triple,588,1,0,1,1,0,1,0,1,0,1,Male,Working,4.2
+YourSpace Pimpri,Pimpri,10540,Double,609,0,1,1,0,1,1,1,0,0,1,Male,Working,4.7
+YourSpace Pimpri,Pimpri,8860,Triple,427,1,0,1,0,1,1,0,0,1,0,Female,Student,4.8
+StayAbode Baner,Baner,14468,Single,384,1,0,0,0,1,1,1,1,1,1,Male,Student,4.8
+EliteStay Baner,Baner,16051,Single,671,0,1,1,0,1,1,0,1,0,0,Female,Student,4.3
+UrbanNest Hinjewadi,Hinjewadi,12177,Single,453,0,0,1,1,0,0,0,0,1,0,Female,Working,4.2
+EliteStay Hadapsar,Hadapsar,9335,Double,362,1,0,0,1,1,0,1,0,0,0,Female,Student,4.0
+Colive Baner,Baner,15786,Double,464,1,1,1,0,0,1,0,0,0,0,Female,Student,4.4
+ComfortStay Pimpri,Pimpri,9783,Triple,398,1,1,0,1,0,1,0,1,0,0,Female,Student,3.7
+EliteStay Wakad,Wakad,11625,Double,372,0,1,0,0,1,0,0,1,0,0,Female,Student,3.9
+YourSpace Pimpri,Pimpri,9275,Double,562,0,0,1,0,0,0,1,0,0,1,Male,Working,4.8
+StayAbode Hinjewadi,Hinjewadi,10890,Double,455,1,0,1,0,0,1,1,0,0,0,Male,Student,4.2
+Stanza Living Baner,Baner,11895,Triple,434,1,0,0,0,1,1,0,0,0,0,Male,Working,3.6
+Zolo Stays Magarpatta,Magarpatta,14746,Double,362,1,0,1,0,1,1,1,1,0,0,Any,Working,4.5
+SmartLiving Kothrud,Kothrud,11245,Triple,569,1,1,0,1,0,0,0,1,1,1,Any,Working,4.7
+StayAbode Magarpatta,Magarpatta,15801,Single,589,0,0,1,1,0,1,0,1,0,0,Female,Working,4.1
+SmartLiving Kothrud,Kothrud,11169,Double,659,1,0,0,0,0,1,0,1,0,1,Any,Student,4.5
+UrbanNest Viman Nagar,Viman Nagar,13570,Double,629,0,0,0,1,0,1,1,1,1,0,Any,Student,4.1
+StayAbode Magarpatta,Magarpatta,14791,Double,431,0,1,0,1,0,1,0,0,0,1,Male,Student,4.9
+ComfortStay Kothrud,Kothrud,13822,Single,403,1,1,0,1,1,1,1,0,0,0,Male,Student,3.9
+Stanza Living Kothrud,Kothrud,12960,Double,665,1,1,0,1,1,0,1,0,0,1,Female,Student,3.6
+SmartLiving Wakad,Wakad,10169,Triple,663,0,1,0,0,1,1,1,1,1,0,Female,Student,3.7
+Zolo Stays Magarpatta,Magarpatta,17367,Single,404,1,1,1,1,1,1,1,0,1,1,Any,Working,4.7
+CoHo Shivaji Nagar,Shivaji Nagar,13225,Triple,580,0,1,1,1,1,1,1,1,0,1,Any,Working,4.1
+HelloWorld Living Viman Nagar,Viman Nagar,16408,Double,518,0,1,1,1,1,1,1,0,1,0,Any,Student,3.7
+HelloWorld Living Hinjewadi,Hinjewadi,11321,Double,582,1,0,1,1,0,1,1,0,0,1,Any,Student,3.5
+CoHo Aundh,Aundh,15948,Single,575,0,1,1,1,0,0,0,0,0,1,Female,Student,4.3
+Colive Pimpri,Pimpri,12521,Single,473,1,1,0,1,0,0,0,1,0,0,Female,Student,4.4
+Stanza Living Shivaji Nagar,Shivaji Nagar,11556,Triple,377,0,1,0,0,0,1,1,1,1,1,Female,Student,4.1
