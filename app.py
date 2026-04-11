@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import numpy as np
-import mysql.connector
 import pandas as pd
 
 # -------------------------
@@ -10,85 +9,35 @@ import pandas as pd
 st.set_page_config(page_title="PG Rent Prediction", layout="wide")
 
 # -------------------------
-# CUSTOM CSS (BLACK THEME)
+# BLACK THEME
 # -------------------------
 st.markdown("""
 <style>
+.stApp {background-color:#000;color:white;}
+h1,h2,h3,h4,p,label {color:white !important;}
 
-/* FULL BLACK BACKGROUND */
-.stApp {
-    background-color: #000000;
-    color: #ffffff;
+.stButton>button {
+    background-color:#00ff88;
+    color:black;
+    border-radius:8px;
+    font-weight:bold;
 }
 
-/* ALL TEXT WHITE */
-h1, h2, h3, h4, h5, h6, p, label, span {
-    color: #ffffff !important;
-}
-
-/* SELECTBOX */
 div[data-baseweb="select"] > div {
-    background-color: #111111 !important;
-    color: white !important;
-    border: 1px solid #ffffff !important;
-    border-radius: 8px;
-}
-
-/* DROPDOWN OPTIONS */
-div[role="listbox"] {
-    background-color: #000000 !important;
+    background-color:#111 !important;
+    color:white !important;
 }
 
 div[role="option"] {
-    color: #ffffff !important;
-    background-color: #000000 !important;
+    background:#000 !important;
+    color:white !important;
 }
-
-/* HOVER EFFECT */
 div[role="option"]:hover {
-    background-color: #ffffff !important;
-    color: #000000 !important;
+    background:#00ff88 !important;
+    color:black !important;
 }
-
-/* BUTTON (GREEN) */
-.stButton>button {
-    background-color: #00ff88 !important;
-    color: black !important;
-    border-radius: 8px;
-    font-weight: bold;
-}
-
-/* INPUT BOX */
-input {
-    background-color: #111111 !important;
-    color: white !important;
-}
-
-/* SLIDER */
-.stSlider span {
-    color: #ffffff !important;
-}
-
-/* TABLE */
-.dataframe {
-    color: white !important;
-}
-
 </style>
 """, unsafe_allow_html=True)
-
-# -------------------------
-# MYSQL CONNECTION
-# -------------------------
-def connect_db():
-    return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="123456789",
-        database="pg_rent_dbase"
-    )
-
-conn = connect_db()
 
 # -------------------------
 # LOAD MODEL
@@ -98,19 +47,27 @@ le_location = pickle.load(open("le_location.pkl", "rb"))
 le_sharing = pickle.load(open("le_sharing.pkl", "rb"))
 
 # -------------------------
+# LOAD DATASET (CSV)
+# -------------------------
+df = pd.read_csv("pune_pg_dataset_1000.csv")
+
+# -------------------------
 # SESSION STATE
 # -------------------------
 if "page" not in st.session_state:
     st.session_state.page = 1
 
+if "history" not in st.session_state:
+    st.session_state.history = []
+
 # -------------------------
-# PAGE 1: WELCOME
+# PAGE 1
 # -------------------------
 if st.session_state.page == 1:
 
     st.markdown("<h1>🏠 Welcome to PG Rent Prediction System</h1>", unsafe_allow_html=True)
+    st.markdown("<h3 style='color:#00ff88;'>🎯 Predict rent easily based on location & sharing</h3>", unsafe_allow_html=True)
 
-    st.markdown("<h3>🎯 Predict rent easily based on location & sharing</h3>", unsafe_allow_html=True)
     location = st.selectbox("📍 Location", le_location.classes_)
     sharing_type = st.selectbox("👥 Sharing Type", le_sharing.classes_)
 
@@ -122,26 +79,22 @@ if st.session_state.page == 1:
         loc_encoded = le_location.transform([location])[0]
         share_encoded = le_sharing.transform([sharing_type])[0]
 
-        input_data = np.array([[
-            loc_encoded, share_encoded, 500,
-            1,1,1,1,1,1,1,1,1,1,
-            1,1,4.5
-        ]])
+        input_data = np.array([[loc_encoded, share_encoded, 500,
+                                1,1,1,1,1,1,1,1,1,1,
+                                1,1,4.5]])
 
         prediction = model.predict(input_data)
 
         st.session_state.predicted_rent = int(prediction[0])
-
         st.session_state.page = 2
         st.rerun()
 
 # -------------------------
-# PAGE 2: AMENITIES
+# PAGE 2
 # -------------------------
 elif st.session_state.page == 2:
 
     st.title("🔍 Customize Amenities")
-
     st.success(f"💰 Base Rent: ₹ {st.session_state.predicted_rent}")
 
     wifi = st.selectbox("WiFi", [0,1])
@@ -162,58 +115,47 @@ elif st.session_state.page == 2:
         loc_encoded = le_location.transform([st.session_state.location])[0]
         share_encoded = le_sharing.transform([st.session_state.sharing])[0]
 
-        input_data = np.array([[
-            loc_encoded, share_encoded, size,
-            wifi, ac, food,
-            parking, laundry, power,
-            security, housekeeping, bathroom,
-            geyser,
-            1,1,4.5
-        ]])
+        input_data = np.array([[loc_encoded, share_encoded, size,
+                                wifi, ac, food,
+                                parking, laundry, power,
+                                security, housekeeping, bathroom,
+                                geyser,
+                                1,1,4.5]])
 
         prediction = model.predict(input_data)
+        rent = int(prediction[0])
 
-        st.session_state.predicted_rent = int(prediction[0])
+        st.session_state.predicted_rent = rent
 
-        # SAVE TO MYSQL
-        cursor = conn.cursor()
-        cursor.execute("""
-            INSERT INTO Rent_predictions (location, sharing_type, predicted_rent)
-            VALUES (%s, %s, %s)
-        """, (st.session_state.location, st.session_state.sharing, int(prediction[0])))
-        conn.commit()
+        # SAVE HISTORY (NO MYSQL)
+        st.session_state.history.append({
+            "location": st.session_state.location,
+            "sharing": st.session_state.sharing,
+            "rent": rent
+        })
 
-        st.success(f"💰 Updated Rent: ₹ {int(prediction[0])}")
+        st.success(f"💰 Updated Rent: ₹ {rent}")
 
     if st.button("➡️ Go to Data Page"):
         st.session_state.page = 3
         st.rerun()
 
 # -------------------------
-# PAGE 3: DATA
+# PAGE 3
 # -------------------------
 elif st.session_state.page == 3:
 
     st.title("📊 Data & Prediction History")
 
     st.subheader("📌 PG Dataset")
-
-    try:
-       df = pd.read_sql("SELECT * FROM pune_pg_dataset_1000 LIMIT 50", conn)
-       st.dataframe(df)
-    except:
-        st.warning("No data found")
+    st.dataframe(df.head(50))
 
     st.subheader("📜 Prediction History")
 
-    try:
-        history = pd.read_sql(
-            "SELECT * FROM Rent_predictions ORDER BY id DESC LIMIT 10",
-            conn
-        )
-        st.dataframe(history)
-    except:
-        st.warning("No history found")
+    if st.session_state.history:
+        st.dataframe(pd.DataFrame(st.session_state.history))
+    else:
+        st.warning("No history yet")
 
     if st.button("🔙 Back to Home"):
         st.session_state.page = 1
