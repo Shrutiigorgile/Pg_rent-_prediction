@@ -82,10 +82,11 @@ input {
 # -------------------------
 def connect_db():
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="123456789",
-        database="pg_rent_dbase"
+        host=st.secrets["MYSQLHOST"],
+        user=st.secrets["MYSQLUSER"],
+        password=st.secrets["MYSQLPASSWORD"],
+        database=st.secrets["MYSQLDATABASE"],
+        port=int(st.secrets["MYSQLPORT"])
     )
 
 conn = connect_db()
