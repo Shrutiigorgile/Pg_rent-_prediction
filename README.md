@@ -47,6 +47,27 @@ To suggest best PG accommodations based on:
   - rent
 
 ---
+---
+
+## 🌐 Deployment & Database
+
+This project is deployed using **Streamlit Cloud**, enabling real-time interaction through a web-based interface.
+
+- 🚀 **Frontend & Deployment:** Streamlit Cloud  
+- 💻 **Backend:** Python (Machine Learning Model)  
+- 🗄️ **Database (Optional / Scalable):** Railway (Cloud Database)
+
+For deployment:
+- The application is hosted on Streamlit Cloud using GitHub integration.
+- Since local MySQL cannot be accessed in cloud environments, CSV is used for data handling during deployment.
+- For scalable production use, the project can be connected to a cloud database such as **Railway**, allowing real-time data storage and retrieval.
+
+This architecture ensures:
+- 🌍 Accessibility from anywhere  
+- ⚡ Fast deployment  
+- 📈 Scalability for real-world applications  
+
+---
 
 ## 📂 Project Structure
 pg-rent-prediction/
