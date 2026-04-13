@@ -225,17 +225,7 @@ elif st.session_state.page == 2:
 # -------------------------
 elif st.session_state.page == 3:
 
-    st.title("📊 Data & Prediction History")
-
-    st.subheader("📌 PG Dataset")
-
-    try:
-       df = pd.read_sql("SELECT * FROM pune_pg_dataset_1000 LIMIT 50", conn)
-       st.dataframe(df)
-    except:
-        st.warning("No data found")
-
-    st.subheader("📜 Prediction History")
+    st.title("📜 Prediction History")
 
     try:
         history = pd.read_sql(
